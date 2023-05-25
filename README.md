@@ -18,7 +18,8 @@ Findings not available yet.
 Findings not available yet.
 
 ### 2023-04: [Caviar Private Pools](https://code4rena.com/contests/2023-04-caviar-private-pools)
-Findings not available yet.
+1. High: [Owner of PrivatePool can steal any NFTs and tokens that the pool has approval for](https://github.com/code-423n4/2023-04-caviar-findings/issues/63)
+2. Medium: [PrivatePool creation can be front-run](https://github.com/code-423n4/2023-04-caviar-findings/issues/92)
 
 ### 2023-02: [Ethos Reserve](https://code4rena.com/contests/2023-02-ethos-reserve-contest)
 1. Medium: [Strategy emergency exit (guardian privileges) harvest amount can be reduced with strategist privileges](https://github.com/code-423n4/2023-02-ethos-findings/issues/262)
