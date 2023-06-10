@@ -5,6 +5,12 @@ Being unable to publicly share my past proprietary development work and [Immunef
 
 ## [Code4rena](https://code4rena.com/)
 
+### 2023-05: [Chainlink Cross-Chain Services: CCIP and ARM Network](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network)
+Findings not available yet.
+
+### 2023-05: [Ajna Protocol](https://code4rena.com/contests/2023-05-ajna-protocol)
+Findings not available yet.
+
 ### 2023-04: [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest)
 Findings not available yet.
 
@@ -12,7 +18,8 @@ Findings not available yet.
 Findings not available yet.
 
 ### 2023-04: [Frankencoin](https://code4rena.com/contests/2023-04-frankencoin)
-Findings not available yet.
+1. Medium: [Successful minter application can be prevented by front-runner](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/477)
+2. Medium: [Denial of service in checkQualified() method of Equity contract](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/635)
 
 ### 2023-04: [Rubicon v2](https://code4rena.com/contests/2023-04-rubicon-v2)
 Findings not available yet.
