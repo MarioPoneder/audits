@@ -9,7 +9,8 @@ Being unable to publicly share my past proprietary development work and [Immunef
 Findings not available yet.
 
 ### 2023-05: [Ajna Protocol](https://code4rena.com/contests/2023-05-ajna-protocol)
-Findings not available yet.
+1. High: [Permanent loss of rewards on temporary underfunding of RewardsManager contract](https://github.com/code-423n4/2023-05-ajna-findings/issues/114)
+2. High: [Position NFT can be spammed with insignificant positions by anyone until rewards DoS](https://github.com/code-423n4/2023-05-ajna-findings/issues/488) | Included in report: [H-03](https://code4rena.com/reports/2023-05-ajna#h-03-position-nft-can-be-spammed-with-insignificant-positions-by-anyone-until-rewards-dos)
 
 ### 2023-04: [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest)
 Findings not available yet.
