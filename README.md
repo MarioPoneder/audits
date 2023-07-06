@@ -19,7 +19,9 @@ Findings not available yet.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Awards have been announced for the $90,500 USDC <a href="https://twitter.com/eigenlayer?ref_src=twsrc%5Etfw">@eigenlayer</a> audit 🤝<br><br>Top 5:<br>🥇 <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a> - $13,081.90 USDC<br>🥈 volodya - $12,193.66 USDC<br>🥉 windowhan001 - $5,031.50 USDC<br>🏅 <a href="https://twitter.com/CyfrinAudits?ref_src=twsrc%5Etfw">@CyfrinAudits</a> - $3,177.34 USDC<br>🏅 <a href="https://twitter.com/QiuhaoLi?ref_src=twsrc%5Etfw">@QiuhaoLi</a> - $2,972.95 USDC </p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1667379760614502402?ref_src=twsrc%5Etfw">June 10, 2023</a></blockquote>
 </details>
 
-Findings not available yet.
+| Risk | Title | Included in report |
+| :--- | :--- | :---: |
+| High | [Slot and block number proofs not required for verification of withdrawal (multiple withdrawals possible)](https://github.com/code-423n4/2023-04-eigenlayer-findings/issues/388) | [H-01](https://code4rena.com/reports/2023-04-eigenlayer#h-01-slot-and-block-number-proofs-not-required-for-verification-of-withdrawal-multiple-withdrawals-possible) |
 
 ### 2023-04: [ENS](https://code4rena.com/contests/2023-04-ens-contest)
 Findings not available yet.
