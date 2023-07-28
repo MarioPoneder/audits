@@ -5,7 +5,12 @@ Being unable to publicly share my past proprietary development work and [Immunef
 ## [Code4rena](https://code4rena.com/)
 
 ### 2023-05: [Chainlink Cross-Chain Services: CCIP and ARM Network](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network)
-Findings not available yet.
+Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
+| Risk | Title |
+| :--- | ---: |
+| High | #164 |
+| Medium | #95 |
+| Medium | #307 |
 
 ### 2023-05: [Ajna Protocol](https://code4rena.com/contests/2023-05-ajna-protocol)
 | Risk | Title | Included in report |
