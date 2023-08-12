@@ -4,6 +4,18 @@ Being unable to publicly share my past proprietary development work and [Immunef
 
 ## [Code4rena](https://code4rena.com/)
 
+### 2023-08: [Good Entry](https://code4rena.com/contests/2023-08-good-entry)
+Findings not available yet.
+
+### 2023-07: [Tapioca DAO](https://code4rena.com/contests/2023-07-tapioca-dao)
+Findings not available yet.
+
+### 2023-07: [Axelar Network](https://code4rena.com/contests/2023-07-axelar-network)
+Findings not available yet.
+
+### 2023-05: [Maia DAO Ecosystem](https://code4rena.com/contests/2023-05-maia-dao-ecosystem)
+Findings not available yet.
+
 ### 2023-05: [Chainlink Cross-Chain Services: CCIP and ARM Network](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network)
 Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
 | Risk | Title |
@@ -52,3 +64,14 @@ Findings not available yet.
 | Medium | [Strategy emergency exit (guardian privileges) harvest amount can be reduced with strategist privileges](https://github.com/code-423n4/2023-02-ethos-findings/issues/262) |
 | Medium | [Inconsistent support of ERC20 tokens that deduct transaction fee](https://github.com/code-423n4/2023-02-ethos-findings/issues/477) |
 | QA | [Strategy contract upgrade can be prevented by lower privileged roles](https://github.com/code-423n4/2023-02-ethos-findings/issues/359) |
+
+
+## [Sherlock](https://app.sherlock.xyz/)
+
+### 2023-06: [Index Update](https://audits.sherlock.xyz/contests/91)
+| Risk | Title |
+| :--- | :--- |
+| Medium | [New auction rebalance can be started before previous one concluded or duration elapsed](https://github.com/sherlock-audit/2023-06-Index-judging/issues/22) |
+| Medium | [Insufficient validation of auction execution price adapter config data](https://github.com/sherlock-audit/2023-06-Index-judging/issues/24) |
+| Medium | [SetToken can be indefinitely locked by AuctionRebalanceModule](https://github.com/sherlock-audit/2023-06-Index-judging/issues/25) |
+
