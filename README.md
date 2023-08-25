@@ -68,7 +68,7 @@ Findings not available yet.
 
 ## [Sherlock](https://app.sherlock.xyz/)
 Note that I am also listing issues here which were labeled as `Excluded` due to the strict `High`/`Medium` only policy at Sherlock.  
-However, those issues are still valid & valuable for the sponsor and most of them contain a coded PoC, therefore I hope they might be a good read for new aspiring auditors.
+However, those issues are still valid & valuable for the sponsor and most of them contain a coded PoC, therefore they might be a good read for new aspiring auditors.
 
 ### 2023-07: [Perennial V2](https://audits.sherlock.xyz/contests/106)
 | Risk | Title |
