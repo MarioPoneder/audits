@@ -4,7 +4,7 @@ Being unable to publicly share my past proprietary development work and [Immunef
 
 ## [Code4rena](https://code4rena.com/)
 
-### 2023-08: [Good Entry](https://code4rena.com/contests/2023-08-good-entry)
+### 2023-08: [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system)
 Findings not available yet.
 
 ### 2023-07: [Tapioca DAO](https://code4rena.com/contests/2023-07-tapioca-dao)
@@ -67,6 +67,11 @@ Findings not available yet.
 
 
 ## [Sherlock](https://app.sherlock.xyz/)
+
+### 2023-07: [Perennial V2](https://audits.sherlock.xyz/contests/106)
+| Risk | Title |
+| :--- | :--- |
+| Medium | [DSU token balance of MultiInvoker contract can be drained by anyone](https://github.com/sherlock-audit/2023-07-perennial-judging/issues/67) |
 
 ### 2023-06: [Index Update](https://audits.sherlock.xyz/contests/91)
 | Risk | Title |
