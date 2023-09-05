@@ -41,7 +41,10 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 | High | [Slot and block number proofs not required for verification of withdrawal (multiple withdrawals possible)](https://github.com/code-423n4/2023-04-eigenlayer-findings/issues/388) | [H-01](https://code4rena.com/reports/2023-04-eigenlayer#h-01-slot-and-block-number-proofs-not-required-for-verification-of-withdrawal-multiple-withdrawals-possible) |
 
 ### 2023-04: [ENS](https://code4rena.com/contests/2023-04-ens-contest)
-Findings not available yet.
+| Risk | Title |
+| :--- | :--- |
+| Medium | [Bad resolver can lead to DoS in resolveCallback() method of OffchainDNSResolver contract](https://github.com/code-423n4/2023-04-ens-findings/issues/95) |
+| Medium | [Fully qualified domain names are incorrectly resolved](https://github.com/code-423n4/2023-04-ens-findings/issues/244) |
 
 ### 2023-04: [Frankencoin](https://code4rena.com/contests/2023-04-frankencoin)
 | Risk | Title |
