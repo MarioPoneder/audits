@@ -4,6 +4,12 @@ Being unable to publicly share my past proprietary development work and [Immunef
 
 ## [Code4rena](https://code4rena.com/)
 
+### 2023-08: [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02)
+Findings not available yet.
+
+### 2023-08: [Dopex](https://code4rena.com/contests/2023-08-dopex)
+Findings not available yet.
+
 ### 2023-08: [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system)
 Findings not available yet.
 
@@ -14,7 +20,15 @@ Findings not available yet.
 Findings not available yet.
 
 ### 2023-05: [Maia DAO Ecosystem](https://code4rena.com/contests/2023-05-maia-dao-ecosystem)
-Findings not available yet.
+| Risk | Title | Selected for report |
+| :--- | :--- | :---: |
+| High | [UlyssesToken asset ID accounting error](https://github.com/code-423n4/2023-05-maia-findings/issues/275) | [H-25](https://code4rena.com/reports/2023-05-maia#h-25-ulyssestoken-asset-id-accounting-error) |
+| High | [Ulysses Omnichain support for tokens with other than 18 decimals is fundamentally flawed](https://github.com/code-423n4/2023-05-maia-findings/issues/498) |  |
+| Medium | [RootBridgeAgent.redeemSettlement can be front-run using RootBridgeAgent.retrySettlement causing redeem DoS](https://github.com/code-423n4/2023-05-maia-findings/issues/869) | [M-03](https://code4rena.com/reports/2023-05-maia#m-03-rootbridgeagentredeemsettlement-can-be-front-run-using-rootbridgeagentretrysettlement-causing-redeem-to-dos) |
+| Medium | [Maia Governance token balance dilution in vMaia vault is breaking the conversion rate mechanism](https://github.com/code-423n4/2023-05-maia-findings/issues/473) | [M-22](https://code4rena.com/reports/2023-05-maia#m-22-maia-governance-token-balance-dilution-in-vmaia-vault-is-breaking-the-conversion-rate-mechanism) |
+| Medium | [Claiming outstanding utility tokens from vMaia vault DoS on pbHermes<>bHermes conversion rate > 1](https://github.com/code-423n4/2023-05-maia-findings/issues/470) | [M-23](https://code4rena.com/reports/2023-05-maia#m-23-claiming-outstanding-utility-tokens-from-vmaia-vault-dos-on-pbhermesbhermes-conversion-rate--1) |
+| Medium | [UlyssesToken.setWeights(...) can cause user loss of assets on vault deposits/withdrawals](https://github.com/code-423n4/2023-05-maia-findings/issues/281) | [M-34](https://code4rena.com/reports/2023-05-maia#m-34-ulyssestokensetweights-can-cause-user-loss-of-assets-on-vault-depositswithdrawals) |
+| Medium | [Withdrawal from vMaia vault only on first Tuesday of the month is not strictly enforced](https://github.com/code-423n4/2023-05-maia-findings/issues/396) |  |
 
 ### 2023-05: [Chainlink Cross-Chain Services: CCIP and ARM Network](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network)
 Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
@@ -25,10 +39,10 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 | Medium | #307 |
 
 ### 2023-05: [Ajna Protocol](https://code4rena.com/contests/2023-05-ajna-protocol)
-| Risk | Title | Included in report |
+| Risk | Title | Selected for report |
 | :--- | :--- | :---: |
-| High | [Permanent loss of rewards on temporary underfunding of RewardsManager contract](https://github.com/code-423n4/2023-05-ajna-findings/issues/114) ||
 | High | [Position NFT can be spammed with insignificant positions by anyone until rewards DoS](https://github.com/code-423n4/2023-05-ajna-findings/issues/488) | [H-03](https://code4rena.com/reports/2023-05-ajna#h-03-position-nft-can-be-spammed-with-insignificant-positions-by-anyone-until-rewards-dos) |
+| High | [Permanent loss of rewards on temporary underfunding of RewardsManager contract](https://github.com/code-423n4/2023-05-ajna-findings/issues/114) ||
 
 ### 2023-04: [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest) :1st_place_medal:
 <details>
@@ -36,7 +50,7 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Awards have been announced for the $90,500 USDC <a href="https://twitter.com/eigenlayer?ref_src=twsrc%5Etfw">@eigenlayer</a> audit 🤝<br><br>Top 5:<br>🥇 <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a> - $13,081.90 USDC<br>🥈 volodya - $12,193.66 USDC<br>🥉 windowhan001 - $5,031.50 USDC<br>🏅 <a href="https://twitter.com/CyfrinAudits?ref_src=twsrc%5Etfw">@CyfrinAudits</a> - $3,177.34 USDC<br>🏅 <a href="https://twitter.com/QiuhaoLi?ref_src=twsrc%5Etfw">@QiuhaoLi</a> - $2,972.95 USDC </p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1667379760614502402?ref_src=twsrc%5Etfw">June 10, 2023</a></blockquote>
 </details>
 
-| Risk | Title | Included in report |
+| Risk | Title | Selected for report |
 | :--- | :--- | :---: |
 | High | [Slot and block number proofs not required for verification of withdrawal (multiple withdrawals possible)](https://github.com/code-423n4/2023-04-eigenlayer-findings/issues/388) | [H-01](https://code4rena.com/reports/2023-04-eigenlayer#h-01-slot-and-block-number-proofs-not-required-for-verification-of-withdrawal-multiple-withdrawals-possible) |
 
@@ -77,6 +91,9 @@ However, those issues are still valid & valuable for the sponsor and most of the
 | Risk | Title |
 | :--- | :--- |
 | Medium | [DSU token balance of MultiInvoker contract can be drained by anyone](https://github.com/sherlock-audit/2023-07-perennial-judging/issues/67) |
+
+### 2023-06: [Tokemak](https://audits.sherlock.xyz/contests/101)
+Findings not available yet.
 
 ### 2023-06: [Index Update](https://audits.sherlock.xyz/contests/91)
 | Risk | Title |
