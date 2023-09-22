@@ -11,7 +11,9 @@ Findings not available yet.
 Findings not available yet.
 
 ### 2023-08: [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system)
-Findings not available yet.
+| Risk | Title |
+| :--- | :--- |
+| Medium | [SecurityCouncilNomineeElectionGovernorTiming.electionToTimestamp(...) can create unsupported/invalid dates](https://github.com/code-423n4/2023-08-arbitrum-findings/issues/11) |
 
 ### 2023-07: [Tapioca DAO](https://code4rena.com/contests/2023-07-tapioca-dao)
 Findings not available yet.
