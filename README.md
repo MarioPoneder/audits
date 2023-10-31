@@ -96,7 +96,11 @@ However, those issues are still valid & valuable for the sponsor and most of the
 | 🟦<br>Low | [DSU token balance of MultiInvoker contract can be drained by anyone](https://github.com/sherlock-audit/2023-07-perennial-judging/issues/67) |
 
 ### 2023-06: [Tokemak](https://audits.sherlock.xyz/contests/101)
-Findings not available yet.
+| Risk | Title |
+| :---: | :--- |
+| 🟥<br>High | [Rewards can be drained due to incorrect handling of userRewardPerTokenPaid accounting](https://github.com/sherlock-audit/2023-06-tokemak-judging/issues/270) |
+| 🟥<br>High | [LiquidationRow.liquidateVaultsForToken(...) will always revert due to missing token transfers](https://github.com/sherlock-audit/2023-06-tokemak-judging/issues/509) |
+| 🟦<br>Low | [LMPVaultRouter mint and deposit entry-points can be blocked by anyone](https://github.com/sherlock-audit/2023-06-tokemak-judging/issues/241) |
 
 ### 2023-06: [Index Update](https://audits.sherlock.xyz/contests/91)
 | Risk | Title |
