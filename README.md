@@ -16,7 +16,12 @@ Findings not available yet.
 | 🟨<br>Medium | [SecurityCouncilNomineeElectionGovernorTiming.electionToTimestamp(...) can create unsupported/invalid dates](https://github.com/code-423n4/2023-08-arbitrum-findings/issues/11) |
 
 ### 2023-07: [Tapioca DAO](https://code4rena.com/contests/2023-07-tapioca-dao)
-Findings not available yet.
+| Risk | Title | Selected for report |
+| :---: | :--- | :---: |
+| 🟥<br>High | [User can give himself approval for all assets held by MagnetarV2 contract](https://github.com/code-423n4/2023-07-tapioca-findings/issues/832) |[H-49](https://code4rena.com/reports/2023-07-tapioca#h-49-user-can-give-himself-approval-for-all-assets-held-by-magnetarv2-contract) |
+| 🟥<br>High | [MagnetarMarketModule.depositRepayAndRemoveCollateralFromMarket(...) can be invoked with other user's tokens](https://github.com/code-423n4/2023-07-tapioca-findings/issues/650) | |
+| 🟨<br>Medium | [Double accounting of action value in MagnetarV2.burst(...)](https://github.com/code-423n4/2023-07-tapioca-findings/issues/793) |  |
+| 🟦<br>Low | [Multicall3 ignores allowFailure leading to DoS](https://github.com/code-423n4/2023-07-tapioca-findings/issues/816) |  |
 
 ### 2023-07: [Axelar Network](https://code4rena.com/contests/2023-07-axelar-network)
 Findings not available yet.
