@@ -4,8 +4,17 @@ Being unable to publicly share my past proprietary development work and [Immunef
 
 ## [Code4rena](https://code4rena.com/)
 
-### 2023-08: [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02)
-Findings not available yet.
+
+### 2023-09: [Maia DAO - Ulysses](https://code4rena.com/contests/2023-09-maia-dao-ulysses)
+| Risk | Title | Selected for report |
+| :---: | :--- | :---: |
+| 🟥<br>High | [All tokens can be stolen from VirtualAccount due to missing access modifier](https://github.com/code-423n4/2023-09-maia-findings/issues/885) |[H-01](https://code4rena.com/reports/2023-09-maia#h-01-all-tokens-can-be-stolen-from-virtualaccount-due-to-missing-access-modifier) |
+
+### 2023-09: [Venus Prime](https://code4rena.com/contests/2023-09-venus-prime)
+| Risk | Title |
+| :---: | :--- |
+| 🟥<br>High | [Prime contract incompatible with currently deployed / active markets (vToken) with 8 decimals](https://github.com/code-423n4/2023-09-venus-findings/issues/85) |
+| 🟥<br>High | [Prime contract incompatible with underlying assets differing from 18 decimals](https://github.com/code-423n4/2023-09-venus-findings/issues/91) |
 
 ### 2023-08: [Dopex](https://code4rena.com/contests/2023-08-dopex)
 Findings not available yet.
@@ -24,7 +33,9 @@ Findings not available yet.
 | 🟦<br>Low | [Multicall3 ignores allowFailure leading to DoS](https://github.com/code-423n4/2023-07-tapioca-findings/issues/816) |  |
 
 ### 2023-07: [Axelar Network](https://code4rena.com/contests/2023-07-axelar-network)
-Findings not available yet.
+| Risk | Title | Selected for report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | [Insufficient support for tokens with different decimals on different chains lead to loss of funds on cross-chain bridging](https://github.com/code-423n4/2023-07-axelar-findings/issues/52) |[M-08](https://code4rena.com/reports/2023-07-axelar#m-08-insufficient-support-for-tokens-with-different-decimals-on-different-chains-lead-to-loss-of-funds-on-cross-chain-bridging) |
 
 ### 2023-05: [Maia DAO Ecosystem](https://code4rena.com/contests/2023-05-maia-dao-ecosystem)
 | Risk | Title | Selected for report |
