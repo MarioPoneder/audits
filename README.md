@@ -16,6 +16,12 @@ Being unable to publicly share my past proprietary development work and [Immunef
 | 🟥<br>High | [Prime contract incompatible with currently deployed / active markets (vToken) with 8 decimals](https://github.com/code-423n4/2023-09-venus-findings/issues/85) |
 | 🟥<br>High | [Prime contract incompatible with underlying assets differing from 18 decimals](https://github.com/code-423n4/2023-09-venus-findings/issues/91) |
 
+### 2023-05: [Chainlink Staking v0.2](https://code4rena.com/audits/2023-08-chainlink-staking-v02)
+Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
+| Risk | Title |
+| :---: | ---: |
+| 🟨<br>Medium | #223 |
+
 ### 2023-08: [Dopex](https://code4rena.com/contests/2023-08-dopex)
 | Risk | Title | Selected for report |
 | :---: | :--- | :---: |
