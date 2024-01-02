@@ -17,7 +17,10 @@ Being unable to publicly share my past proprietary development work and [Immunef
 | 🟥<br>High | [Prime contract incompatible with underlying assets differing from 18 decimals](https://github.com/code-423n4/2023-09-venus-findings/issues/91) |
 
 ### 2023-08: [Dopex](https://code4rena.com/contests/2023-08-dopex)
-Findings not available yet.
+| Risk | Title | Selected for report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | [Change of fundingDuration causes "time travel" of PerpetualAtlanticVault.nextFundingPaymentTimestamp()](https://github.com/code-423n4/2023-08-dopex-findings/issues/850) |[M-10](https://code4rena.com/reports/2023-08-dopex#m-10-change-of-fundingduration-causes-time-travel-of-perpetualatlanticvaultnextfundingpaymenttimestamp) |
+| 🟦<br>Low | [RdpxV2Core.removeAssetFromtokenReserves(...) irrecoverably breaks reserve token handling](https://github.com/code-423n4/2023-08-dopex-findings/issues/717) |  |
 
 ### 2023-08: [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system)
 | Risk | Title |
@@ -86,7 +89,11 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 | 🟦<br>Low | [Denial of service in checkQualified() method of Equity contract](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/635) |
 
 ### 2023-04: [Rubicon v2](https://code4rena.com/contests/2023-04-rubicon-v2)
-Findings not available yet.
+Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
+| Risk | Title |
+| :---: | ---: |
+| 🟥<br>High | #1214 |
+| 🟥<br>High | #1265 |
 
 ### 2023-04: [Caviar Private Pools](https://code4rena.com/contests/2023-04-caviar-private-pools)
 | Risk | Title |
