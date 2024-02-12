@@ -2,8 +2,17 @@
 
 Being unable to publicly share my past proprietary development work and [Immunefi](https://immunefi.com/) findings, I am glad that I've started to participate in decentralized audits which allows me to publish my bug reports once they are judged.
 
+## Index
+- [Code4rena](#code4rena)
+- [Cantina](#cantina)
+- [Sherlock](#sherlock)
+
 ## [Code4rena](https://code4rena.com/)
 
+### 2023-12: [Olas](https://code4rena.com/audits/2023-12-olas)
+| Risk | Title |
+| :---: | :--- | 
+| 🟥<br>High | [Bonds created in year cross epoch’s can lead to lost payouts](https://code4rena.com/reports/2023-12-autonolas#h-04-bonds-created-in-year-cross-epochs-can-lead-to-lost-payouts-) 
 
 ### 2023-09: [Maia DAO - Ulysses](https://code4rena.com/contests/2023-09-maia-dao-ulysses)
 | Risk | Title | Selected for report |
