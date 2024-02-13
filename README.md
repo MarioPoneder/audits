@@ -7,6 +7,8 @@ Being unable to publicly share my past proprietary development work and [Immunef
 - [Cantina](#cantina)
 - [Sherlock](#sherlock)
 
+---
+
 ## [Code4rena](https://code4rena.com/)
 
 ### 2023-12: [Olas](https://code4rena.com/audits/2023-12-olas)
@@ -123,6 +125,24 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 | 🟨<br>Medium | [Inconsistent support of ERC20 tokens that deduct transaction fee](https://github.com/code-423n4/2023-02-ethos-findings/issues/477) |
 | 🟦<br>Low | [Strategy contract upgrade can be prevented by lower privileged roles](https://github.com/code-423n4/2023-02-ethos-findings/issues/359) |
 
+---
+
+## [Cantina](https://cantina.xyz/)
+
+### 2023-11: [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)
+| Risk | Title |
+| :---: | :--- |
+| 🟨<br>Medium | [Insufficient support for fee-on-transfer tokens](https://cantina.xyz/code/2cd0b038-3e32-4db6-b488-0f85b6f0e49f/findings/cdee2f91-6ad6-4326-8ca9-7c1a2cce4233) |
+| 🟦<br>Low | [ArrayCastLib.castToMultiVaultData(...) does not preserve values of hasDstSwap and retain4626](https://cantina.xyz/code/2cd0b038-3e32-4db6-b488-0f85b6f0e49f/findings/5cf83a4f-397f-428a-846f-7777db33c676) |
+| 🟦<br>Low | [Timing overlap of dispute/finalizeRescueFailedDeposits(...) methods](https://cantina.xyz/code/2cd0b038-3e32-4db6-b488-0f85b6f0e49f/findings/11c3eed3-9cc2-4fa2-987a-41d2764bd921) |
+
+### 2023-11: [Morpho Blue](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1)
+| Risk | Title |
+| :---: | :--- |
+| 🟦<br>Low | [Interest/fee accrual can be suppressed in regular markets with low-decimal loan tokens](https://cantina.xyz/code/d86b7f95-e574-4092-8ea2-78dcac2f54f1/findings/4e7fb083-542d-4e9b-8da4-1799cea8ee26) |
+| 🟦<br>Low | [Oracles should be whitelisted to avoid theft by direct price manipulation](https://cantina.xyz/code/d86b7f95-e574-4092-8ea2-78dcac2f54f1/findings/c6dc5ae3-4081-4406-a1ee-2aa85fbde59c) |
+
+---
 
 ## [Sherlock](https://app.sherlock.xyz/)
 Note that I am also listing issues here which were labeled as `Excluded` due to the strict `High`/`Medium` only policy at Sherlock.  
