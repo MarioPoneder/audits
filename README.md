@@ -1,11 +1,12 @@
-# Public Audit Findings
+# Public Findings
 
-Being unable to publicly share my past proprietary development work and [Immunefi](https://immunefi.com/) findings, I am glad that I've started to participate in decentralized audits which allows me to publish my bug reports once they are judged.
+For more info, visit: https://decentra.vision/
 
 ## Index
 - [Code4rena](#code4rena)
 - [Cantina](#cantina)
 - [Sherlock](#sherlock)
+- [Hats Finance (Bug Bounty)](./HatsFinance_BugBounties)
 
 ---
 
