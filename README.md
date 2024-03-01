@@ -20,7 +20,7 @@ For more info, visit: https://decentra.vision/
 ### 2023-10: [zkSync Era](https://code4rena.com/audits/2023-10-zksync-era)
 | Risk | Title |
 | :---: | :--- | 
-| 🟨<br>Medium | [Incorrect max precompile address](https://code4rena.com/reports/2023-10-zksync#m-04-incorrect-max-precompile-address-) |
+| 🟨<br>Medium | [Incorrect max precompile address](https://code4rena.com/reports/2023-10-zksync#m-04-incorrect-max-precompile-address) |
 | 🟦<br>Low | [EIP-1559 transactions can be invoked from kernel space accounts due to missing assertion in bootloader](https://github.com/code-423n4/2023-10-zksync-findings/issues/224) |
 | 🟦<br>Low | [EIP-712 transactions via custom accounts do not comply with EIP-3607 and could therefore fail](https://github.com/code-423n4/2023-10-zksync-findings/issues/322) |
 | 🟦<br>Low | [State changes are preserved on failed L2 transactions using custom account abstraction](https://github.com/code-423n4/2023-10-zksync-findings/issues/469) |
