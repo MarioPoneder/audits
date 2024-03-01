@@ -15,7 +15,16 @@ For more info, visit: https://decentra.vision/
 ### 2023-12: [Olas](https://code4rena.com/audits/2023-12-olas)
 | Risk | Title |
 | :---: | :--- | 
-| 🟥<br>High | [Bonds created in year cross epoch’s can lead to lost payouts](https://code4rena.com/reports/2023-12-autonolas#h-04-bonds-created-in-year-cross-epochs-can-lead-to-lost-payouts-) 
+| 🟥<br>High | [Bonds created in year cross epoch’s can lead to lost payouts](https://code4rena.com/reports/2023-12-autonolas#h-04-bonds-created-in-year-cross-epochs-can-lead-to-lost-payouts-) |
+
+### 2023-10: [zkSync Era](https://code4rena.com/audits/2023-10-zksync-era)
+| Risk | Title |
+| :---: | :--- | 
+| 🟨<br>Medium | [Incorrect max precompile address](https://code4rena.com/reports/2023-10-zksync#m-04-incorrect-max-precompile-address-) |
+| 🟦<br>Low | [EIP-1559 transactions can be invoked from kernel space accounts due to missing assertion in bootloader](https://github.com/code-423n4/2023-10-zksync-findings/issues/224) |
+| 🟦<br>Low | [EIP-712 transactions via custom accounts do not comply with EIP-3607 and could therefore fail](https://github.com/code-423n4/2023-10-zksync-findings/issues/322) |
+| 🟦<br>Low | [State changes are preserved on failed L2 transactions using custom account abstraction](https://github.com/code-423n4/2023-10-zksync-findings/issues/469) |
+| 🟦<br>Low | [Users can avoid paying fees for failed L2 transactions](https://github.com/code-423n4/2023-10-zksync-findings/issues/520) |
 
 ### 2023-09: [Maia DAO - Ulysses](https://code4rena.com/contests/2023-09-maia-dao-ulysses)
 | Risk | Title | Selected for report |
