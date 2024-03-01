@@ -12,6 +12,9 @@ For more info, visit: https://decentra.vision/
 
 ## [Code4rena](https://code4rena.com/)
 
+### 2024-01: [Opus](https://code4rena.com/audits/2024-01-opus) :3rd_place_medal:
+Findings not public yet.
+
 ### 2023-12: [Olas](https://code4rena.com/audits/2023-12-olas)
 | Risk | Title |
 | :---: | :--- | 
