@@ -13,6 +13,11 @@ For more info, visit: https://decentra.vision/
 ## [Code4rena](https://code4rena.com/)
 
 ### 2024-01: [Opus](https://code4rena.com/audits/2024-01-opus) :3rd_place_medal:
+<details>
+<summary><b>Related tweet</b></summary>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rounding out the Top 3 was <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a>! 🥉<br><br>Rank: #3 (#86 All-time) <br>Medium-risk findings: 2 (2 solo) <a href="https://t.co/vCgs0GlnQY">pic.twitter.com/vCgs0GlnQY</a></p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1765461990728708298?ref_src=twsrc%5Etfw">March 6, 2024</a></blockquote>
+</details>
+
 Findings not public yet.
 
 ### 2023-12: [Olas](https://code4rena.com/audits/2023-12-olas)
