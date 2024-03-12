@@ -13,12 +13,18 @@ For more info, visit: https://decentra.vision/
 ## [Code4rena](https://code4rena.com/)
 
 ### 2024-01: [Opus](https://code4rena.com/audits/2024-01-opus) :3rd_place_medal:
+<sup>Rust / Starknet</sup>
+
 <details>
 <summary><b>Related tweet</b></summary>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rounding out the Top 3 was <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a>! 🥉<br><br>Rank: #3 (#86 All-time) <br>Medium-risk findings: 2 (2 solo) <a href="https://t.co/vCgs0GlnQY">pic.twitter.com/vCgs0GlnQY</a></p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1765461990728708298?ref_src=twsrc%5Etfw">March 6, 2024</a></blockquote>
 </details>
 
-Findings not public yet.
+| Risk | Title | Selected for report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | [Collateral cannot be withdrawn from trove once yang is suspended](https://github.com/code-423n4/2024-01-opus-findings/issues/48) | [M-07](https://code4rena.com/reports/2024-01-opus#m-07-collateral-cannot-be-withdrawn-from-trove-once-yang-is-suspended) |
+| 🟨<br>Medium | [Unhealthy troves with LTV > 90% cannot always be absorbed as intended](https://github.com/code-423n4/2024-01-opus-findings/issues/11) | [M-09](https://code4rena.com/reports/2024-01-opus#m-09-unhealthy-troves-with-ltv--90-cannot-always-be-absorbed-as-intended) |
+| 🟦<br>Low | [Low Risk and Non-Critical Issues](https://github.com/code-423n4/2024-01-opus-findings/issues/85) | [QA](https://code4rena.com/reports/2024-01-opus#low-risk-and-non-critical-issues) |
 
 ### 2023-12: [Olas](https://code4rena.com/audits/2023-12-olas)
 | Risk | Title |
@@ -146,6 +152,11 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 ---
 
 ## [Cantina](https://cantina.xyz/)
+
+### 2024-01: [Olas Lockbox](https://cantina.xyz/competitions/829164bf-7fba-4b84-a6b8-76652205bd97)
+<sup>Rust / Solana</sup>
+
+Findings not available yet.
 
 ### 2023-11: [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)
 | Risk | Title |
