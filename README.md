@@ -153,10 +153,20 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 
 ## [Cantina](https://cantina.xyz/)
 
-### 2024-01: [Olas Lockbox](https://cantina.xyz/competitions/829164bf-7fba-4b84-a6b8-76652205bd97)
+### 2024-01: [Olas Lockbox](https://cantina.xyz/competitions/829164bf-7fba-4b84-a6b8-76652205bd97) 🥈
 <sup>Rust / Solana</sup>
 
-Findings not available yet.
+<details>
+<summary><b>Related tweet</b></summary>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to our resident rustaceans on an excellent job during the <a href="https://twitter.com/autonolas?ref_src=twsrc%5Etfw">@autonolas</a> security competition.<br><br>Here are your top 3 placements:<br><br>🥇: <a href="https://twitter.com/99Crits?ref_src=twsrc%5Etfw">@99crits</a> - $22,275.61<br>🥈: <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a> - $8,590.35<br>🥉: <a href="https://twitter.com/meltedblocks?ref_src=twsrc%5Etfw">@meltedblocks</a> - $6,682.68<br><br>Full Results Below! <a href="https://t.co/Cr5ATXONbQ">pic.twitter.com/Cr5ATXONbQ</a></p>&mdash; Cantina 🪐 (@cantinaxyz) <a href="https://twitter.com/cantinaxyz/status/1769846698514231628?ref_src=twsrc%5Etfw">March 18, 2024</a></blockquote>
+</details>
+
+| Risk | Title |
+| :---: | :--- |
+| 🟨<br>Medium | [Attacker can create token account for NFT position to cause deposit DoS](https://cantina.xyz/code/829164bf-7fba-4b84-a6b8-76652205bd97/findings/94fb8f14-7aaf-4d87-9001-84b9e2ca856e) |
+| 🟨<br>Medium | [DoS on simultaneous deposit due to id restriction](https://cantina.xyz/code/829164bf-7fba-4b84-a6b8-76652205bd97/findings/a00c4470-fe01-4172-8f21-df12ad6c2e71) |
+| 🟦<br>Low | [Missing mutable constraint leads to withdrawal DoS due to read-only signer](https://cantina.xyz/code/829164bf-7fba-4b84-a6b8-76652205bd97/findings/7f40f7ec-a1da-4dd7-b40f-90664389b586) |
+| 🟦<br>Low | [Attacker can frontrun lockbox initialization to provide own fee token accounts](https://cantina.xyz/code/829164bf-7fba-4b84-a6b8-76652205bd97/findings/e92ec89f-9397-4c3a-839a-162fed09c2b9) |
 
 ### 2023-11: [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)
 | Risk | Title |
