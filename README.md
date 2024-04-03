@@ -12,6 +12,17 @@ For more info, visit: https://decentra.vision/
 
 ## [Code4rena](https://code4rena.com/)
 
+
+### 2024-03: [Phat Contract Runtime](https://code4rena.com/audits/2024-03-phat-contract-runtime) :3rd_place_medal:
+<sup>Rust / Substrate</sup>
+
+<details>
+<summary><b>Related tweet</b></summary>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Awards have been announced for the $60,500 USDC <a href="https://twitter.com/PhalaNetwork?ref_src=twsrc%5Etfw">@PhalaNetwork</a> audit! 🥳<br><br>Top 5:<br>🥇 <a href="https://twitter.com/DadeKuma?ref_src=twsrc%5Etfw">@DadeKuma</a> - $15,937.95 USDC<br>🥈 zhaojie - $15,225.87 USDC<br>🥉 <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a> - $12,619.42 USDC<br>🏅 Koolex - $2,606.45 USDC<br>🏅 Cryptor - $994.09 USDC <a href="https://t.co/C15fmXxxJ2">pic.twitter.com/C15fmXxxJ2</a></p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1774840564347007466?ref_src=twsrc%5Etfw">April 1, 2024</a></blockquote>
+</details>
+
+Findings not public yet.
+
 ### 2024-01: [Opus](https://code4rena.com/audits/2024-01-opus) :3rd_place_medal:
 <sup>Rust / Starknet</sup>
 
