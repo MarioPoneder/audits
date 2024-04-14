@@ -12,6 +12,15 @@ For more info, visit: https://decentra.vision/
 
 ## [Code4rena](https://code4rena.com/)
 
+### 2024-03: [Canto Invitational](https://code4rena.com/audits/2024-03-canto-invitational) :2nd_place_medal:
+
+Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
+| Risk | Title |
+| :---: | ---: |
+| 🟥<br>High | #5 |
+| 🟥<br>High | #6 |
+| 🟨<br>Medium | #30 |
+| 🟦<br>Low | #9 |
 
 ### 2024-03: [Phat Contract Runtime](https://code4rena.com/audits/2024-03-phat-contract-runtime) :3rd_place_medal:
 <sup>Rust / Substrate</sup>
@@ -21,7 +30,9 @@ For more info, visit: https://decentra.vision/
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Awards have been announced for the $60,500 USDC <a href="https://twitter.com/PhalaNetwork?ref_src=twsrc%5Etfw">@PhalaNetwork</a> audit! 🥳<br><br>Top 5:<br>🥇 <a href="https://twitter.com/DadeKuma?ref_src=twsrc%5Etfw">@DadeKuma</a> - $15,937.95 USDC<br>🥈 zhaojie - $15,225.87 USDC<br>🥉 <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a> - $12,619.42 USDC<br>🏅 Koolex - $2,606.45 USDC<br>🏅 Cryptor - $994.09 USDC <a href="https://t.co/C15fmXxxJ2">pic.twitter.com/C15fmXxxJ2</a></p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1774840564347007466?ref_src=twsrc%5Etfw">April 1, 2024</a></blockquote>
 </details>
 
-Findings not public yet.
+| Risk | Title | Selected for report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | [Limited availability of balance_of(...) method](https://github.com/code-423n4/2024-03-phala-network-findings/issues/50) | [M-01](https://code4rena.com/reports/2024-03-phala-network#m-01-limited-availability-of-balance_of-method) |
 
 ### 2024-01: [Opus](https://code4rena.com/audits/2024-01-opus) :3rd_place_medal:
 <sup>Rust / Starknet</sup>
