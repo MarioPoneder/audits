@@ -12,6 +12,11 @@ For more info, visit: https://decentra.vision/
 
 ## [Code4rena](https://code4rena.com/)
 
+### 2024-03: [Acala](https://code4rena.com/audits/2024-03-acala)
+<sup>Rust / Substrate</sup>
+
+Findings not available yet.
+
 ### 2024-03: [Canto Invitational](https://code4rena.com/audits/2024-03-canto-invitational) :2nd_place_medal:
 
 Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
@@ -139,18 +144,6 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 | :---: | :--- | :---: |
 | 🟥<br>High | [Slot and block number proofs not required for verification of withdrawal (multiple withdrawals possible)](https://github.com/code-423n4/2023-04-eigenlayer-findings/issues/388) | [H-01](https://code4rena.com/reports/2023-04-eigenlayer#h-01-slot-and-block-number-proofs-not-required-for-verification-of-withdrawal-multiple-withdrawals-possible) |
 
-### 2023-04: [ENS](https://code4rena.com/contests/2023-04-ens-contest)
-| Risk | Title |
-| :---: | :--- |
-| 🟦<br>Low | [Bad resolver can lead to DoS in resolveCallback() method of OffchainDNSResolver contract](https://github.com/code-423n4/2023-04-ens-findings/issues/95) |
-| 🟦<br>Low | [Fully qualified domain names are incorrectly resolved](https://github.com/code-423n4/2023-04-ens-findings/issues/244) |
-
-### 2023-04: [Frankencoin](https://code4rena.com/contests/2023-04-frankencoin)
-| Risk | Title |
-| :---: | :--- |
-| 🟦<br>Low | [Successful minter application can be prevented by front-runner](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/477) |
-| 🟦<br>Low | [Denial of service in checkQualified() method of Equity contract](https://github.com/code-423n4/2023-04-frankencoin-findings/issues/635) |
-
 ### 2023-04: [Rubicon v2](https://code4rena.com/contests/2023-04-rubicon-v2)
 Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
 | Risk | Title |
@@ -174,6 +167,14 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 ---
 
 ## [Cantina](https://cantina.xyz/)
+
+### 2024-02: [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)
+
+| Risk | Title |
+| :---: | :--- |
+| 🟥<br>High | [Anyone can drain the whole ETH balance of ThreeDNSRegControl when making a commitment](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/findings/1517fb44-4b0c-400f-a0ec-5e0520852ae5) |
+| 🟨<br>Medium | [Safe transfers of registrations to ERC-721 receiver contracts which also have a fallback method will always fail](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/findings/d64dc4d0-897c-47c5-af64-940270315c9a) |
+| 🟨<br>Medium | [Batch transfers of registrations to contracts will always fail due to an invalid selector check](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/findings/f3740093-04e2-4717-ad14-8b8d70451b21) |
 
 ### 2024-01: [Olas Lockbox](https://cantina.xyz/competitions/829164bf-7fba-4b84-a6b8-76652205bd97) 🥈
 <sup>Rust / Solana</sup>
