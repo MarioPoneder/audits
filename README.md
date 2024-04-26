@@ -3,12 +3,28 @@
 For more info, visit: https://decentra.vision/
 
 ## Index
+- [Shieldify](#shieldify)
 - [Code4rena](#code4rena)
 - [Cantina](#cantina)
 - [Sherlock](#sherlock)
 - [Hats Finance (Bug Bounty)](./HatsFinance_BugBounties)
 
 ---
+
+## [Shieldify](https://www.shieldify.org/)
+
+### 2024-03: [Possum Labs Portals v2](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)  :2nd_place_medal:
+
+| Risk | Title | Finding in report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | Investors could earn 10x more than intended | M-01 |
+| 🟦<br>Low | Cannot revoke permit of MintBurnToken | L-02 |
+
+### 2024-02: [Ion Protocol](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Ion-Security-Review.pdf)  :1st_place_medal:
+
+| Risk | Title | Finding in report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | Unsafe downcast truncation in UniswapOracleLibrary leading to invalid price data | M-01 |
 
 ## [Code4rena](https://code4rena.com/)
 
