@@ -29,9 +29,9 @@ For more info, visit: https://decentra.vision/
 ## [Code4rena](https://code4rena.com/)
 
 ### 2024-03: [Acala](https://code4rena.com/audits/2024-03-acala)
-<sup>Rust / Substrate</sup>
-
-Findings not available yet.
+| Risk | Title | Selected for report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | [Incentive accumulation can be sandwiched with additional shares to gain advantage over long-term depositors](https://github.com/code-423n4/2024-03-acala-findings/issues/88) | [M-02](https://code4rena.com/reports/2024-03-acala#m-02-incentive-accumulation-can-be-sandwiched-with-additional-shares-to-gain-advantage-over-long-term-depositors) |
 
 ### 2024-03: [Canto Invitational](https://code4rena.com/audits/2024-03-canto-invitational) :2nd_place_medal:
 
