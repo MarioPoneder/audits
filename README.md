@@ -35,13 +35,12 @@ For more info, visit: https://decentra.vision/
 
 ### 2024-03: [Canto Invitational](https://code4rena.com/audits/2024-03-canto-invitational) :2nd_place_medal:
 
-Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
-| Risk | Title |
-| :---: | ---: |
-| 🟥<br>High | #5 |
-| 🟥<br>High | #6 |
-| 🟨<br>Medium | #30 |
-| 🟦<br>Low | #9 |
+| Risk | Title | Selected for report |
+| :---: | :--- | :---: |
+| 🟥<br>High | [Native gas tokens can become stuck in ASDRouter contract](https://github.com/code-423n4/2024-03-canto-findings/issues/6) | [H-01](https://code4rena.com/reports/2024-03-canto#h-01-native-gas-tokens-can-become-stuck-in-asdrouter-contract) |
+| 🟥<br>High | [Dual transaction nature of composed message transfer allows anyone to steal user funds](https://github.com/code-423n4/2024-03-canto-findings/issues/5) | [H-02](https://code4rena.com/reports/2024-03-canto#h-02-dual-transaction-nature-of-composed-message-transfer-allows-anyone-to-steal-user-funds) |
+| 🟨<br>Medium | [Removing token from the whitelist may cause DoS due to limited USDC amount](https://code4rena.com/reports/2024-03-canto#m-03-removing-token-from-the-whitelist-may-cause-dos-due-to-limited-usdc-amount) |  |
+| 🟦<br>Low | [Low Risk and Non-Critical Issues](https://github.com/code-423n4/2024-03-canto-findings/issues/9) | [QA](https://code4rena.com/reports/2024-03-canto#low-risk-and-non-critical-issues) |
 
 ### 2024-03: [Phat Contract Runtime](https://code4rena.com/audits/2024-03-phat-contract-runtime) :3rd_place_medal:
 <sup>Rust / Substrate</sup>
