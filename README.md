@@ -3,7 +3,8 @@
 For more info, visit: https://decentra.vision/
 
 ## Index
-- [Private/Team Engagements](#privateteam-engagements)
+- [Team Engagements](#team-engagements)
+- [Solo Engagements](#solo-engagements)
 - [Shieldify](#shieldify)
 - [Code4rena](#code4rena)
 - [Cantina](#cantina)
