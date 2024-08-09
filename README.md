@@ -34,6 +34,7 @@ For more info, visit: https://decentra.vision/
 | 2024-05 | [Yeet Cup](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Yeet-Security-Review.pdf)  | Shieldify | 0.8 weeks |
 | 2024-03 | [Olas Lockbox v2 - Mitigation review](https://github.com/valory-xyz/lockbox-solana/blob/13859c034d4be1286b3f2f0458aed435adef9c19/lockbox2/doc/External_Audit_LockboxV2.pdf) | Cantina | 0.4 weeks |
 
+---
 
 ## [Shieldify](https://www.shieldify.org/)
 
