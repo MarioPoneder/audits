@@ -15,24 +15,24 @@ For more info, visit: https://decentra.vision/
 
 ## Team Engagements
 
-| Begin month | Project | Provider | Duration |
-| :---: | :--- | :---  | :---: |
-| 2024-07 | Undisclosed | Spearbit | 3.0 weeks |
-| 2024-06 | Undisclosed | Oak Security | 3.0 weeks |
-| 2024-06 | Undisclosed | Oak Security | 1.0 weeks |
-| 2024-06 | [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/pdf/SharwaFinance-security-review.pdf) | Pashov Audit Group | 1.0 weeks |
-| 2024-06 | Undisclosed | Pashov Audit Group | 0.4 weeks |
-| 2024-05 | [Pendle Finance](https://github.com/spearbit/portfolio/blob/master/pdfs/Pendle-Spearbit-Security-Review-July-2024.pdf)  | Spearbit | 3.0 weeks |
-| 2024-04 | Undisclosed | Oak Security | 1.1 weeks |
+| Begin month | Project | Provider | Duration | Platform |
+| :---: | :--- | :---  | :---: | :--- |
+| 2024-07 | Undisclosed | Spearbit | 3.0 weeks | Solidity / EVM |
+| 2024-06 | Undisclosed | Oak Security | 3.0 weeks | Rust / Solana |
+| 2024-06 | Undisclosed | Oak Security | 1.0 weeks | Rust / Solana |
+| 2024-06 | [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/pdf/SharwaFinance-security-review.pdf) | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
+| 2024-06 | Undisclosed | Pashov Audit Group | 0.4 weeks | Solidity / EVM |
+| 2024-05 | [Pendle Finance](https://github.com/spearbit/portfolio/blob/master/pdfs/Pendle-Spearbit-Security-Review-July-2024.pdf)  | Spearbit | 3.0 weeks | Solidity / EVM |
+| 2024-04 | Undisclosed | Oak Security | 1.1 weeks | Rust / Substrate |
 
 ## Solo Engagements
 
-| Begin month | Project | Provider | Duration |
-| :---: | :--- | :--- | :---: |
-| 2024-07 | [Possum Core](https://gist.github.com/MarioPoneder/abfae63a5b456a1edf683d55266bbbaf) ([ref](https://possum-labs.gitbook.io/docs/security/audits)) | Decentra Vision | 0.8 weeks |
-| 2024-06 | [Proportionalized Contracts](https://gist.github.com/MarioPoneder/dd1e90a40364bbefce24a1141b729017) | Decentra Vision | 0.8 weeks |
-| 2024-05 | [Yeet Cup](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Yeet-Security-Review.pdf)  | Shieldify | 0.8 weeks |
-| 2024-03 | [Olas Lockbox v2 - Mitigation review](https://github.com/valory-xyz/lockbox-solana/blob/13859c034d4be1286b3f2f0458aed435adef9c19/lockbox2/doc/External_Audit_LockboxV2.pdf) | Cantina | 0.4 weeks |
+| Begin month | Project | Provider | Duration | Platform |
+| :---: | :--- | :--- | :---: | :--- |
+| 2024-07 | [Possum Core](https://gist.github.com/MarioPoneder/abfae63a5b456a1edf683d55266bbbaf) ([ref](https://possum-labs.gitbook.io/docs/security/audits)) | Decentra Vision | 0.8 weeks | Solidity / EVM |
+| 2024-06 | [Proportionalized Contracts](https://gist.github.com/MarioPoneder/dd1e90a40364bbefce24a1141b729017) | Decentra Vision | 0.8 weeks | Solidity / EVM |
+| 2024-05 | [Yeet Cup](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Yeet-Security-Review.pdf)  | Shieldify | 0.8 weeks | Solidity / EVM |
+| 2024-03 | [Olas Lockbox v2 - Mitigation review](https://github.com/valory-xyz/lockbox-solana/blob/13859c034d4be1286b3f2f0458aed435adef9c19/lockbox2/doc/External_Audit_LockboxV2.pdf) | Cantina | 0.4 weeks | Rust / Solana |
 
 ---
 
@@ -54,6 +54,8 @@ For more info, visit: https://decentra.vision/
 ## [Code4rena](https://code4rena.com/)
 
 ### 2024-03: [Acala](https://code4rena.com/audits/2024-03-acala)
+<sup>Rust / Substrate</sup>
+
 | Risk | Title | Selected for report |
 | :---: | :--- | :---: |
 | 🟨<br>Medium | [Incentive accumulation can be sandwiched with additional shares to gain advantage over long-term depositors](https://github.com/code-423n4/2024-03-acala-findings/issues/88) | [M-02](https://code4rena.com/reports/2024-03-acala#m-02-incentive-accumulation-can-be-sandwiched-with-additional-shares-to-gain-advantage-over-long-term-depositors) |
