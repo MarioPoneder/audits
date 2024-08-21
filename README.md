@@ -17,7 +17,10 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2024-07 | Undisclosed | Proof of Liquidity, Staking, Voting | Spearbit | 3.0 weeks | Solidity / EVM |
+| 2024-09 | To be disclosed | AMM, DEX | Spearbit | 4.0 weeks | Solidity / EVM |
+| 2024-08 | To be disclosed | To be disclosed | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
+| 2024-08 | Aurora BTC Light Client | Bitcoin client on-chain | AuditOne | 1.0 weeks | Rust / NEAR |
+| 2024-07 | To be disclosed | Proof of Liquidity, Staking, Voting | Spearbit | 3.0 weeks | Solidity / EVM |
 | 2024-06 | Undisclosed | Cross-chain, Liquidity, Messaging | Oak Security | 3.0 weeks | Rust / Solana |
 | 2024-06 | Undisclosed | Tokenization, Marketplace | Oak Security | 1.0 weeks | Rust / Solana |
 | 2024-06 | [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/pdf/SharwaFinance-security-review.pdf) | Margin trading, Options | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
