@@ -56,6 +56,17 @@ For more info, visit: https://decentra.vision/
 
 ## [Code4rena](https://code4rena.com/)
 
+### Judging
+
+* **2024-07**: [BendDAO Invitational](https://code4rena.com/audits/2024-07-benddao-invitational)
+* **2024-05**: [Lavarage Appellate Court](https://github.com/code-423n4/2024-04-lavarage-findings/discussions/36)
+* **2024-03**: [Neobase Invitational](https://code4rena.com/audits/2024-03-neobase-invitational)
+* **2024-02**: [Code4rena Blue](https://code4rena.com/blog/introducing-code4rena-blue-more-than-just-bug-bounties) Bug Bounty submissions (undisclosed)
+* **2024-02**: [UniStaker Infrastructure](https://code4rena.com/audits/2024-02-unistaker-infrastructure)
+* **2023-12**: [Revolution Protocol ](https://code4rena.com/audits/2023-12-revolution-protocol)
+* **2023-11**: [Canto Application Specific Dollars and Bonding Curves for 1155s](https://code4rena.com/audits/2023-11-canto-application-specific-dollars-and-bonding-curves-for-1155s)
+* **2023-10**: [The Wildcat Protocol](https://code4rena.com/audits/2023-10-the-wildcat-protocol)
+
 ### 2024-03: [Acala](https://code4rena.com/audits/2024-03-acala)
 <sup>Rust / Substrate</sup>
 
