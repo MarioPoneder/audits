@@ -224,6 +224,10 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 
 ## [Cantina](https://cantina.xyz/)
 
+### Judging
+
+* **2024-09**: [Centrifuge](https://cantina.xyz/competitions/a0a58a8b-247e-4203-b3cb-476ded9d5515)
+
 ### 2024-02: [3DNS](https://cantina.xyz/code/cdb738fd-0e7f-4a6b-9073-2b8629bfc1c3/README.md)
 
 | Risk | Title |
