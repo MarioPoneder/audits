@@ -17,17 +17,21 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2024-12 | To be disclosed | Loan, Leveraged yield | Spearbit | 1.0 weeks | Solidity / EVM |
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
 | 2024-11 | To be disclosed | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
 | 2024-11 | To be disclosed | Cross-chain, Notifications | Oak Security | 1.0 weeks | Cairo / Starknet, Rust / Solana |
 | 2024-10 | To be disclosed | Kaia chain, Restaking | Trust Security | 0.6 weeks | Solidity / EVM |
 | 2024-10 | [Level Money](https://cantina.xyz/portfolio/612f3254-f6a6-420d-8d51-fb058e4af022) | Stablecoin, Restaking | Spearbit | 1.0 weeks | Solidity / EVM |
+| 2024-10 | To be disclosed | DEX, Aggregator | Code4rena Zenith | 0.4 weeks | Rust / Solana |
+| 2024-10 | [4Real Finance](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-10-4real-zenith.pdf) | Treasury, Staking, Yield | Code4rena Zenith | 0.8 weeks | Rust / Solana |
+| 2024-10 | To be disclosed | DEX, Aggregator | Code4rena Zenith | 0.3 weeks | Rust / Solana |
 | 2024-10 | Near One OmniBridge | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Solidity / EVM |
-| 2024-09 | [Balancer V3](https://github.com/spearbit/portfolio/blob/master/pdfs/Balancer-Spearbit-Security-Review-September-2024.pdf) | AMM, DEX | Spearbit | 4.0 weeks | Solidity / EVM |
+| 2024-09 | [Balancer V3](https://github.com/spearbit/portfolio/blob/master/pdfs/Balancer-Spearbit-Security-Review-September-2024.pdf) | AMM, DEX, Vault | Spearbit | 4.0 weeks | Solidity / EVM |
 | 2024-08 | [Resolv](https://github.com/pashov/audits/blob/master/team/pdf/Resolv-security-review-August.pdf) | Stablecoin, Liquid staking, Futures | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
 | 2024-08 | Aurora BTC Light Client | Bitcoin client, Relay | AuditOne | 1.0 weeks | Rust / NEAR |
 | 2024-07 | To be disclosed | Proof of Liquidity, Staking, Voting | Spearbit | 3.0 weeks | Solidity / EVM |
-| 2024-06 | To be disclosed | Cross-chain, Liquidity, Messaging | Oak Security | 3.0 weeks | Rust / Solana |
+| 2024-06 | [Router Protocol](https://github.com/router-protocol/audit-reports/blob/main/Router%20Solana%20Integration%20(2024-09-25)%20.pdf) | Cross-chain, Liquidity, Messaging | Oak Security | 3.0 weeks | Rust / Solana |
 | 2024-06 | [Out GCC](https://github.com/oak-security/audit-reports/blob/main/Out/2024-09-24%20Audit%20Report%20-%20Out%20GCC.pdf) | Tokenization, Marketplace | Oak Security | 1.0 weeks | Rust / Solana |
 | 2024-06 | [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/pdf/SharwaFinance-security-review.pdf) | Margin trading, Options | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
 | 2024-06 | Undisclosed | Cross-chain, Airdrop | Pashov Audit Group | 0.4 weeks | Solidity / EVM |
