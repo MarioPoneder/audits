@@ -106,7 +106,7 @@ For more info, visit: https://decentra.vision/
 | 🟨<br>Medium | [Limited availability of balance_of(...) method](https://github.com/code-423n4/2024-03-phala-network-findings/issues/50) | [M-01](https://code4rena.com/reports/2024-03-phala-network#m-01-limited-availability-of-balance_of-method) |
 
 ### 2024-01: [Opus](https://code4rena.com/audits/2024-01-opus) :3rd_place_medal:
-<sup>Rust / Starknet</sup>
+<sup>Cairo / Starknet</sup>
 
 <details>
 <summary><b>Related tweet</b></summary>
