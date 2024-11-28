@@ -17,7 +17,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2024-12 | To be disclosed | Loan, Leveraged yield | Spearbit | 1.0 weeks | Solidity / EVM |
+| 2024-12 | To be disclosed | Lending, Leveraged yield | Spearbit | 1.0 weeks | Solidity / EVM |
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
 | 2024-11 | To be disclosed | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
 | 2024-11 | To be disclosed | Cross-chain, Notifications | Oak Security | 1.0 weeks | Cairo / Starknet, Rust / Solana |
