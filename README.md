@@ -21,7 +21,7 @@ For more info, visit: https://decentra.vision/
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
 | 2024-11 | To be disclosed | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
 | 2024-11 | To be disclosed | Cross-chain, Notifications | Oak Security | 1.0 weeks | Cairo / Starknet, Rust / Solana |
-| 2024-10 | To be disclosed | Kaia chain, Restaking | Trust Security | 0.6 weeks | Solidity / EVM |
+| 2024-10 | [BugHole Restaking](https://github.com/bug4city/lair-lsd/blob/master/audit/restake/Lair_Restaking_v3.pdf) | Kaia chain, Restaking | Trust Security | 0.6 weeks | Solidity / EVM |
 | 2024-10 | [Level Money](https://cantina.xyz/portfolio/612f3254-f6a6-420d-8d51-fb058e4af022) | Stablecoin, Restaking | Spearbit | 1.0 weeks | Solidity / EVM |
 | 2024-10 | To be disclosed | DEX, Aggregator | Code4rena Zenith | 0.4 weeks | Rust / Solana |
 | 2024-10 | [4Real Finance](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-10-4real-zenith.pdf) | Treasury, Staking, Yield | Code4rena Zenith | 0.8 weeks | Rust / Solana |
