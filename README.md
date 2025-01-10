@@ -17,6 +17,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-01 | To be disclosed | OTC, Escrow | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
 | 2024-11 | [Zeitgeist Futarchy](https://github.com/oak-security/audit-reports/blob/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf) | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
 | 2024-11 | Push Protocol - Comm [Cairo](https://github.com/oak-security/audit-reports/blob/main/Push/2024-11-29%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Cairo.pdf) / [Rust](https://github.com/oak-security/audit-reports/blob/main/Push/2024-12-06%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Rust.pdf) | Cross-chain, Notifications | Oak Security | 1.0 weeks | Cairo / Starknet, Rust / Solana |
@@ -69,6 +70,7 @@ For more info, visit: https://decentra.vision/
 
 ### Judging
 
+* **2024-12**: [BendDAO Invitational](https://code4rena.com/audits/2024-12-benddao-invitational) (update audit)
 * **2024-07**: [BendDAO Invitational](https://code4rena.com/audits/2024-07-benddao-invitational)
 * **2024-05**: [Lavarage Appellate Court](https://github.com/code-423n4/2024-04-lavarage-findings/discussions/36)
 * **2024-03**: [Neobase Invitational](https://code4rena.com/audits/2024-03-neobase-invitational)
