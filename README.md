@@ -18,7 +18,7 @@ For more info, visit: https://decentra.vision/
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
-| 2024-11 | To be disclosed | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
+| 2024-11 | [Zeitgeist Futarchy](https://github.com/oak-security/audit-reports/blob/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf) | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
 | 2024-11 | Push Protocol - Comm [Cairo](https://github.com/oak-security/audit-reports/blob/main/Push/2024-11-29%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Cairo.pdf) / [Rust](https://github.com/oak-security/audit-reports/blob/main/Push/2024-12-06%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Rust.pdf) | Cross-chain, Notifications | Oak Security | 1.0 weeks | Cairo / Starknet, Rust / Solana |
 | 2024-10 | [BugHole Restaking](https://github.com/bug4city/lair-lsd/blob/master/audit/restake/Lair_Restaking_v3.pdf) | Kaia chain, Restaking | Trust Security | 0.6 weeks | Solidity / EVM |
 | 2024-10 | [Level Money](https://cantina.xyz/portfolio/612f3254-f6a6-420d-8d51-fb058e4af022) | Stablecoin, Restaking | Spearbit | 1.0 weeks | Solidity / EVM |
