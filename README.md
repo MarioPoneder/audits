@@ -32,7 +32,7 @@ For more info, visit: https://decentra.vision/
 | 2024-09 | [Balancer V3](https://github.com/spearbit/portfolio/blob/master/pdfs/Balancer-Spearbit-Security-Review-September-2024.pdf) | AMM, DEX, Vault | Spearbit | 4.0 weeks | Solidity / EVM |
 | 2024-08 | [Resolv](https://github.com/pashov/audits/blob/master/team/pdf/Resolv-security-review-August.pdf) | Stablecoin, Liquid staking, Futures | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
 | 2024-08 | Aurora BTC Light Client | Bitcoin client, Relay | AuditOne | 1.0 weeks | Rust / NEAR |
-| 2024-07 | [Infrared Finance](https://drive.google.com/file/d/1cxZTg2SCXdnKJquJfztTl4jfT0gFqtLs/view) | Proof of Liquidity, Staking, Voting | Spearbit | 3.0 weeks | Solidity / EVM |
+| 2024-07 | [Infrared Finance](https://cantina.xyz/portfolio/89e5aa01-14ad-48f8-af3d-d1182d4ffefb) | Proof of Liquidity, Staking, Voting | Spearbit | 3.0 weeks | Solidity / EVM |
 | 2024-06 | [Router Protocol](https://github.com/router-protocol/audit-reports/blob/main/Router%20Solana%20Integration%20(2024-09-25)%20.pdf) | Cross-chain, Liquidity, Messaging | Oak Security | 3.0 weeks | Rust / Solana |
 | 2024-06 | [Out GCC](https://github.com/oak-security/audit-reports/blob/main/Out/2024-09-24%20Audit%20Report%20-%20Out%20GCC.pdf) | Tokenization, Marketplace | Oak Security | 1.0 weeks | Rust / Solana |
 | 2024-06 | [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/pdf/SharwaFinance-security-review.pdf) | Margin trading, Options | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
