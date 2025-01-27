@@ -18,7 +18,7 @@ For more info, visit: https://decentra.vision/
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2025-01 | To be disclosed | DEX, Perpetuals | Code4rena Zenith | 6.0 weeks | Rust / Solana |
-| 2025-01 | To be disclosed | Concentrated liquidity, Leverage, Lending | Torii Security | 2.0 weeks | Rust / Solana |
+| 2025-01 | [DefiTuna](https://github.com/Torii-Security/audits/blob/main/solana/torii-defituna-report.pdf)| Concentrated liquidity, Leverage, Lending | Torii Security | 2.0 weeks | Rust / Solana |
 | 2025-01 | To be disclosed | OTC, Escrow | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
 | 2024-11 | [Zeitgeist Futarchy](https://github.com/oak-security/audit-reports/blob/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf) | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
@@ -44,7 +44,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :--- | :--- | :---: | :--- |
-| 2025-01 | To be disclosed | Game, Vault, Rewards | Decentra Vision | 0.5 weeks | Solidity / EVM |
+| 2025-01 | [Yaspter Contracts v2](https://gist.github.com/MarioPoneder/5701b7ea237efb85ca44bda79b909849) | Game, Vault, Rewards | Decentra Vision | 0.5 weeks | Rust / Solana |
 | 2024-12 | To be disclosed | Lending, Leveraged yield | Spearbit | 1.0 weeks | Solidity / EVM |
 | 2024-07 | [Possum Core](https://gist.github.com/MarioPoneder/abfae63a5b456a1edf683d55266bbbaf) ([ref](https://possum-labs.gitbook.io/docs/security/audits)) | Governance, Staking | Decentra Vision | 0.8 weeks | Solidity / EVM |
 | 2024-06 | [Proportionalized Contracts](https://gist.github.com/MarioPoneder/dd1e90a40364bbefce24a1141b729017) | Fee token, Staking | Decentra Vision | 0.8 weeks | Solidity / EVM |
