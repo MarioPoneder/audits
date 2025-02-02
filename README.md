@@ -44,6 +44,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :--- | :--- | :---: | :--- |
+| 2025-02 | [Possum CyberCash](https://gist.github.com/MarioPoneder/870f6b1f150d402bc73798f98dd95631) | Fee-on-transfer token, Migration | Decentra Vision | 0.4 weeks | Solidity / EVM |
 | 2025-01 | [Yaspter Contracts v2](https://gist.github.com/MarioPoneder/5701b7ea237efb85ca44bda79b909849) | Game, Vault, Rewards | Decentra Vision | 0.5 weeks | Rust / Solana |
 | 2024-12 | To be disclosed | Lending, Leveraged yield | Spearbit | 1.0 weeks | Solidity / EVM |
 | 2024-07 | [Possum Core](https://gist.github.com/MarioPoneder/abfae63a5b456a1edf683d55266bbbaf) ([ref](https://possum-labs.gitbook.io/docs/security/audits)) | Governance, Staking | Decentra Vision | 0.8 weeks | Solidity / EVM |
