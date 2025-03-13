@@ -20,6 +20,7 @@ For more info, visit: https://decentra.vision/
 | 2025-01 | To be disclosed | DEX, Perpetuals | Code4rena Zenith | 6.0 weeks | Rust / Solana |
 | 2025-01 | [DefiTuna](https://github.com/Torii-Security/audits/blob/main/solana/torii-defituna-report.pdf)| Concentrated liquidity, Leverage, Lending | Torii Security | 2.0 weeks | Rust / Solana |
 | 2025-01 | To be disclosed | OTC, Escrow | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
+| 2024-12 | [ICN Passport](https://github.com/oak-security/audit-reports/blob/main/ICN/2024-12-18%20Audit%20Report%20-%20ICN%20Token.pdf) | NFT ticket | Oak Security | 0.2 weeks | Solidity |
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
 | 2024-11 | [Zeitgeist Futarchy](https://github.com/oak-security/audit-reports/blob/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf) | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
 | 2024-11 | Push Protocol - Comm [Cairo](https://github.com/oak-security/audit-reports/blob/main/Push/2024-11-29%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Cairo.pdf) / [Rust](https://github.com/oak-security/audit-reports/blob/main/Push/2024-12-06%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Rust.pdf) | Cross-chain, Notifications | Oak Security | 1.0 weeks | Cairo / Starknet, Rust / Solana |
@@ -44,6 +45,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :--- | :--- | :---: | :--- |
+| 2025-02 | [Yaspter Contracts v3](https://gist.github.com/MarioPoneder/6f091337968bd17669c4fcd184b4f9c0) | Game, Vault, Rewards, Bonding curve | Decentra Vision | 0.5 weeks | Rust / Solana |
 | 2025-02 | [Possum CyberCash](https://gist.github.com/MarioPoneder/870f6b1f150d402bc73798f98dd95631) | Fee-on-transfer token, Migration | Decentra Vision | 0.4 weeks | Solidity / EVM |
 | 2025-01 | [Yaspter Contracts v2](https://gist.github.com/MarioPoneder/5701b7ea237efb85ca44bda79b909849) | Game, Vault, Rewards | Decentra Vision | 0.5 weeks | Rust / Solana |
 | 2024-12 | To be disclosed | Lending, Leveraged yield | Spearbit | 1.0 weeks | Solidity / EVM |
