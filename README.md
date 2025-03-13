@@ -5,9 +5,9 @@ For more info, visit: https://decentra.vision/
 ## Index
 - [Team Engagements](#team-engagements)
 - [Solo Engagements](#solo-engagements)
-- [Shieldify](#shieldify)
 - [Code4rena](#code4rena)
 - [Cantina](#cantina)
+- [Shieldify](#shieldify)
 - [Sherlock](#sherlock)
 - [Hats Finance (Bug Bounty)](./HatsFinance_BugBounties)
 
@@ -58,21 +58,6 @@ For more info, visit: https://decentra.vision/
 | 2024-03 | [Olas Lockbox v2 - Mitigation review](https://github.com/valory-xyz/lockbox-solana/blob/13859c034d4be1286b3f2f0458aed435adef9c19/lockbox2/doc/External_Audit_LockboxV2.pdf) | Liquidity bonding | Cantina | 0.4 weeks | Rust / Solana |
 
 ---
-
-## [Shieldify](https://www.shieldify.org/)
-
-### 2024-03: [Possum Labs Portals v2](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)  :2nd_place_medal:
-
-| Risk | Title | Finding in report |
-| :---: | :--- | :---: |
-| 🟨<br>Medium | Investors could earn 10x more than intended | M-01 |
-| 🟦<br>Low | Cannot revoke permit of MintBurnToken | L-02 |
-
-### 2024-02: [Ion Protocol](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Ion-Security-Review.pdf)  :1st_place_medal:
-
-| Risk | Title | Finding in report |
-| :---: | :--- | :---: |
-| 🟨<br>Medium | Unsafe downcast truncation in UniswapOracleLibrary leading to invalid price data | M-01 |
 
 ## [Code4rena](https://code4rena.com/)
 
@@ -284,6 +269,23 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 | :---: | :--- |
 | 🟦<br>Low | [Interest/fee accrual can be suppressed in regular markets with low-decimal loan tokens](https://cantina.xyz/code/d86b7f95-e574-4092-8ea2-78dcac2f54f1/findings/4e7fb083-542d-4e9b-8da4-1799cea8ee26) |
 | 🟦<br>Low | [Oracles should be whitelisted to avoid theft by direct price manipulation](https://cantina.xyz/code/d86b7f95-e574-4092-8ea2-78dcac2f54f1/findings/c6dc5ae3-4081-4406-a1ee-2aa85fbde59c) |
+
+---
+
+## [Shieldify](https://www.shieldify.org/)
+
+### 2024-03: [Possum Labs Portals v2](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PossumLabs-V2-Security-Review.pdf)  :2nd_place_medal:
+
+| Risk | Title | Finding in report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | Investors could earn 10x more than intended | M-01 |
+| 🟦<br>Low | Cannot revoke permit of MintBurnToken | L-02 |
+
+### 2024-02: [Ion Protocol](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Ion-Security-Review.pdf)  :1st_place_medal:
+
+| Risk | Title | Finding in report |
+| :---: | :--- | :---: |
+| 🟨<br>Medium | Unsafe downcast truncation in UniswapOracleLibrary leading to invalid price data | M-01 |
 
 ---
 
