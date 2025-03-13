@@ -17,7 +17,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2025-01 | To be disclosed | DEX, Perpetuals | Code4rena Zenith | 6.0 weeks | Rust / Solana |
+| 2025-01 | [GMX Solana](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | DEX, Perpetuals | Code4rena Zenith | 6.0 weeks | Rust / Solana |
 | 2025-01 | [DefiTuna](https://github.com/Torii-Security/audits/blob/main/solana/torii-defituna-report.pdf)| Concentrated liquidity, Leverage, Lending | Torii Security | 2.0 weeks | Rust / Solana |
 | 2025-01 | To be disclosed | OTC, Escrow | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
 | 2024-12 | [ICN Passport](https://github.com/oak-security/audit-reports/blob/main/ICN/2024-12-18%20Audit%20Report%20-%20ICN%20Token.pdf) | NFT ticket | Oak Security | 0.2 weeks | Solidity |
@@ -26,9 +26,9 @@ For more info, visit: https://decentra.vision/
 | 2024-11 | Push Protocol - Comm [Cairo](https://github.com/oak-security/audit-reports/blob/main/Push/2024-11-29%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Cairo.pdf) / [Rust](https://github.com/oak-security/audit-reports/blob/main/Push/2024-12-06%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Rust.pdf) | Cross-chain, Notifications | Oak Security | 1.0 weeks | Cairo / Starknet, Rust / Solana |
 | 2024-10 | [BugHole Restaking](https://github.com/bug4city/lair-lsd/blob/master/audit/restake/Lair_Restaking_v3.pdf) | Kaia chain, Restaking | Trust Security | 0.6 weeks | Solidity / EVM |
 | 2024-10 | [Level Money](https://cantina.xyz/portfolio/612f3254-f6a6-420d-8d51-fb058e4af022) | Stablecoin, Restaking | Spearbit | 1.0 weeks | Solidity / EVM |
-| 2024-10 | To be disclosed | DEX, Aggregator | Code4rena Zenith | 0.4 weeks | Rust / Solana |
+| 2024-10 | Jupiter | DEX, Aggregator | Code4rena Zenith | 0.4 weeks | Rust / Solana |
 | 2024-10 | [4Real Finance](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-10-4real-zenith.pdf) | Treasury, Staking, Yield | Code4rena Zenith | 0.8 weeks | Rust / Solana |
-| 2024-10 | To be disclosed | DEX, Aggregator | Code4rena Zenith | 0.3 weeks | Rust / Solana |
+| 2024-10 | Jupiter | DEX, Aggregator | Code4rena Zenith | 0.3 weeks | Rust / Solana |
 | 2024-10 | Near One OmniBridge | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Solidity / EVM |
 | 2024-09 | [Balancer V3](https://github.com/spearbit/portfolio/blob/master/pdfs/Balancer-Spearbit-Security-Review-September-2024.pdf) | AMM, DEX, Vault | Spearbit | 4.0 weeks | Solidity / EVM |
 | 2024-08 | [Resolv](https://github.com/pashov/audits/blob/master/team/pdf/Resolv-security-review-August.pdf) | Stablecoin, Liquid staking, Futures | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
@@ -37,9 +37,9 @@ For more info, visit: https://decentra.vision/
 | 2024-06 | [Router Protocol](https://github.com/router-protocol/audit-reports/blob/main/Router%20Solana%20Integration%20(2024-09-25)%20.pdf) | Cross-chain, Liquidity, Messaging | Oak Security | 3.0 weeks | Rust / Solana |
 | 2024-06 | [Out GCC](https://github.com/oak-security/audit-reports/blob/main/Out/2024-09-24%20Audit%20Report%20-%20Out%20GCC.pdf) | Tokenization, Marketplace | Oak Security | 1.0 weeks | Rust / Solana |
 | 2024-06 | [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/pdf/SharwaFinance-security-review.pdf) | Margin trading, Options | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
-| 2024-06 | Undisclosed | Cross-chain, Airdrop | Pashov Audit Group | 0.4 weeks | Solidity / EVM |
+| 2024-06 | LayerZero ZROClaim | Cross-chain, Airdrop | Pashov Audit Group | 0.4 weeks | Solidity / EVM |
 | 2024-05 | [Pendle Finance](https://github.com/spearbit/portfolio/blob/master/pdfs/Pendle-Spearbit-Security-Review-July-2024.pdf) | Tokenization, Yield trading | Spearbit | 3.0 weeks | Solidity / EVM |
-| 2024-04 | Undisclosed | Game, Infrastructure | Oak Security | 1.1 weeks | Rust / Substrate |
+| 2024-04 | Mythical Games | Game, Infrastructure | Oak Security | 1.1 weeks | Rust / Substrate |
 
 ## Solo Engagements
 
@@ -48,7 +48,7 @@ For more info, visit: https://decentra.vision/
 | 2025-02 | [Yaspter Contracts v3](https://gist.github.com/MarioPoneder/6f091337968bd17669c4fcd184b4f9c0) | Game, Vault, Rewards, Bonding curve | Decentra Vision | 0.5 weeks | Rust / Solana |
 | 2025-02 | [Possum CyberCash](https://gist.github.com/MarioPoneder/870f6b1f150d402bc73798f98dd95631) | Fee-on-transfer token, Migration | Decentra Vision | 0.4 weeks | Solidity / EVM |
 | 2025-01 | [Yaspter Contracts v2](https://gist.github.com/MarioPoneder/5701b7ea237efb85ca44bda79b909849) | Game, Vault, Rewards | Decentra Vision | 0.5 weeks | Rust / Solana |
-| 2024-12 | To be disclosed | Lending, Leveraged yield | Spearbit | 1.0 weeks | Solidity / EVM |
+| 2024-12 | Term Structure TermMax | Lending, Leveraged yield | Spearbit | 1.0 weeks | Solidity / EVM |
 | 2024-07 | [Possum Core](https://gist.github.com/MarioPoneder/abfae63a5b456a1edf683d55266bbbaf) ([ref](https://possum-labs.gitbook.io/docs/security/audits)) | Governance, Staking | Decentra Vision | 0.8 weeks | Solidity / EVM |
 | 2024-06 | [Proportionalized Contracts](https://gist.github.com/MarioPoneder/dd1e90a40364bbefce24a1141b729017) | Fee token, Staking | Decentra Vision | 0.8 weeks | Solidity / EVM |
 | 2024-05 | [Yeet Cup](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Yeet-Security-Review.pdf)  | Game, Yield | Shieldify | 0.8 weeks | Solidity / EVM |
