@@ -17,11 +17,14 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.7 weeks | Solidity / EVM |
+| 2025-03 | To be disclosed | Vault, Queue, CPI | Zenith | 1.0 weeks | Rust / Solana |
 | 2025-03 | To be disclosed | Proof of SQL, Node, Table indexing | Spearbit | 1.5 weeks | Rust / Substrate |
 | 2025-03 | [Layer N - N1 Nord](https://cantina.xyz/portfolio/87b3a055-dcf4-4d63-b0d6-d225c4356672) | Block bridging, Merkle proofs | Spearbit | 0.8 weeks | Rust / Solana |
 | 2025-01 | [GMX Solana](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | DEX, Perpetuals | Zenith | 6.0 weeks | Rust / Solana |
 | 2025-01 | [DefiTuna](https://github.com/Torii-Security/audits/blob/main/solana/torii-defituna-report.pdf)| Concentrated liquidity, Leverage, Lending | Torii Security | 2.0 weeks | Rust / Solana |
-| 2025-01 | To be disclosed | OTC, Escrow | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
+| 2025-01 | STIX OTC | OTC, Escrow | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
+| 2024-12  | Near One OmniProtocol 2 | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR |
 | 2024-12 | Nudge Token & [Campaigns](https://github.com/oak-security/audit-reports/blob/main/Nudge/2025-03-07%20Audit%20Report%20-%20Nudge%20Campaigns.pdf) | Reallocation marketplace, Rewards | Oak Security | 1.2 weeks | Solidity / EVM |
 | 2024-12 | [ICN Passport](https://github.com/oak-security/audit-reports/blob/main/ICN/2024-12-18%20Audit%20Report%20-%20ICN%20Token.pdf) | NFT ticket | Oak Security | 0.3 weeks | Solidity / EVM |
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
