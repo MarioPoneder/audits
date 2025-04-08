@@ -17,6 +17,8 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-04 | To be disclosed | Vault, WBTC | Oak Security | 0.4 weeks | Solidity / EVM |
+| 2025-04 | To be disclosed | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM |
 | 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.7 weeks | Solidity / EVM |
 | 2025-03 | To be disclosed | Vault, Queue, CPI | Zenith | 1.0 weeks | Rust / Solana |
 | 2025-03 | To be disclosed | Proof of SQL, Node, Table indexing | Spearbit | 1.5 weeks | Rust / Substrate |
