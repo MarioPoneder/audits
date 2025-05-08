@@ -38,7 +38,7 @@ For more info, visit: https://decentra.vision/
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2024-12  | Near One OmniProtocol (PR) | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR |
 | 2024-12 | Nudge Token & [Campaigns](https://github.com/oak-security/audit-reports/blob/main/Nudge/2025-03-07%20Audit%20Report%20-%20Nudge%20Campaigns.pdf) | Reallocation marketplace, Rewards | Oak Security | 1.2 weeks | Solidity / EVM |
-| 2024-12 | [ICN Passport](https://github.com/oak-security/audit-reports/blob/main/ICN/2024-12-18%20Audit%20Report%20-%20ICN%20Token.pdf) | NFT ticket | Oak Security | 0.3 weeks | Solidity / EVM |
+| 2024-12 | [ICN Passport](https://github.com/oak-security/audit-reports/blob/main/ICN/2025-03-11%20Audit%20Report%20-%20ICN%20Token.pdf) | NFT ticket | Oak Security | 0.3 weeks | Solidity / EVM |
 | 2024-11 | Near One OmniProtocol | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Rust / Solana, Solidity / EVM |
 | 2024-11 | [Zeitgeist Futarchy](https://github.com/oak-security/audit-reports/blob/main/Zeitgeist/2025-01-02%20Audit%20Report%20-%20Zeitgeist%20Combinatorial%20Betting%20and%20Futarchy%20Security%20Audit%20v1.0.pdf) | Combinatorial prediction markets | Oak Security | 2.5 weeks | Rust / Substrate |
 | 2024-11 | Push Protocol - Comm [Cairo](https://github.com/oak-security/audit-reports/blob/main/Push/2024-11-29%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Cairo.pdf) / [Rust](https://github.com/oak-security/audit-reports/blob/main/Push/2024-12-06%20Audit%20Report%20-%20Push%20Protocol%20-%20Comm%20Rust.pdf) | Cross-chain, Notifications | Oak Security | 1.0 weeks | Cairo / Starknet, Rust / Solana |
