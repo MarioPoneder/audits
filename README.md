@@ -17,11 +17,14 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2025-04 | To be disclosed | Vault, WBTC | Oak Security | 0.4 weeks | Solidity / EVM |
-| 2025-04 | To be disclosed | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM |
-| 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.7 weeks | Solidity / EVM |
-| 2025-03 | To be disclosed | Vault, Queue, CPI | Zenith | 1.0 weeks | Rust / Solana |
-| 2025-03 | To be disclosed | Proof of SQL, Node, Table indexing | Spearbit | 1.5 weeks | Rust / Substrate |
+| 2025-05 | To be disclosed | Liquid BTC, Multi-signature, Cross-chain  | Zenith | 1.4 weeks | Cairo / Starknet | <!-- Lombard Finance - Starknet LBTC -->
+| 2025-04 | To be disclosed | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Semantic Layer - SVF -->
+| 2025-04 | To be disclosed | Hyperliquid, Escrow, Vault | Pashov Audit Group | 0.8 weeks | Solidity / EVM | <!--  Blueberry Finance -->
+| 2025-04 | To be disclosed | Vault, WBTC | Oak Security | 0.4 weeks | Solidity / EVM | <!--  Structured Private Deposit Contract -->
+| 2025-04 | To be disclosed | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Crestal Network - Nation Contracts -->
+| 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.7 weeks | Solidity / EVM | <!--  Magic Labs - Newton Keystore -->
+| 2025-03 | To be disclosed | Vault, Queue, CPI | Zenith | 1.0 weeks | Rust / Solana | <!-- Treehouse - Boring Vault -->
+| 2025-03 | To be disclosed | Proof of SQL, Node, Table indexing | Spearbit | 1.5 weeks | Rust / Substrate | <!-- Space and Time - SxT Node -->
 | 2025-03 | [Layer N - N1 Nord](https://cantina.xyz/portfolio/87b3a055-dcf4-4d63-b0d6-d225c4356672) | Block bridging, Merkle proofs | Spearbit | 0.8 weeks | Rust / Solana |
 | 2025-01 | [GMX Solana](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | DEX, Perpetuals | Zenith | 6.0 weeks | Rust / Solana |
 | 2025-01 | [DefiTuna](https://github.com/Torii-Security/audits/blob/main/solana/torii-defituna-report.pdf)| Concentrated liquidity, Leverage, Lending | Torii Security | 2.0 weeks | Rust / Solana |
