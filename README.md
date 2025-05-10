@@ -23,7 +23,7 @@ For more info, visit: https://decentra.vision/
 | 2025-04 | To be disclosed | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Semantic Layer - SVF -->
 | 2025-04 | To be disclosed | Hyperliquid, Escrow, Vault | Pashov Audit Group | 0.8 weeks | Solidity / EVM | <!--  Blueberry Finance -->
 | 2025-04 | To be disclosed | Vault, WBTC | Oak Security | 0.4 weeks | Solidity / EVM | <!--  Structured Private Deposit Contract -->
-| 2025-04 | To be disclosed | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Crestal Network - Nation Contracts -->
+| 2025-04 | [Crestal Network - Nation Contracts](https://cantina.xyz/portfolio/909772c0-d1ab-4f5a-9c90-d175a98e2a39) | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM |
 | 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.7 weeks | Solidity / EVM | <!--  Magic Labs - Newton Keystore -->
 | 2025-03 | To be disclosed | Vault, Queue, CPI | Zenith | 1.0 weeks | Rust / Solana | <!-- Treehouse - Boring Vault -->
 | 2025-03 | To be disclosed | Proof of SQL, Node, Table indexing | Spearbit | 1.5 weeks | Rust / Substrate | <!-- Space and Time - SxT Node -->
