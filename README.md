@@ -20,7 +20,7 @@ For more info, visit: https://decentra.vision/
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2025-05 | To be disclosed | Treasury, Batch transfers, Ed25519 | Oak Security | 0.8 weeks | Solidity / EVM | <!--  MetaMask Card Baanx Withdraw Program -->
-| 2025-05 | To be disclosed | Rate limiting, CPI validation | Zenith | 0.2 weeks | Rust / Solana | <!-- Jupiter Meteora (PR) -->
+| 2025-05 | To be disclosed | Rate limiting, CPI validation | Zenith | 0.2 weeks | Rust / Solana | <!-- Meteora - Dynamic Bonding Curve (PR) -->
 | 2025-05 | To be disclosed | Liquid BTC, Multi-signature, Cross-chain  | Zenith | 1.4 weeks | Cairo / Starknet | <!-- Lombard Finance - Starknet LBTC -->
 | 2025-04 | To be disclosed | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Semantic Layer - SVF -->
 | 2025-04 | To be disclosed | Hyperliquid, Escrow, Vault | Pashov Audit Group | 0.8 weeks | Solidity / EVM | <!--  Blueberry Finance -->
