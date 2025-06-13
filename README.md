@@ -26,7 +26,7 @@ For more info, visit: https://decentra.vision/
 | 2025-05 | To be disclosed | Liquid BTC, Multi-signature, Cross-chain  | Zenith | 1.4 weeks | Cairo / Starknet | <!-- Lombard Finance - Starknet LBTC -->
 | 2025-04 | To be disclosed | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Semantic Layer - SVF -->
 | 2025-04 | To be disclosed | Hyperliquid, Escrow, Vault | Pashov Audit Group | 0.8 weeks | Solidity / EVM | <!--  Blueberry Finance -->
-| 2025-04 | To be disclosed | Vault, WBTC | Oak Security | 0.5 weeks | Solidity / EVM | <!--  Structured Private Deposit Contract -->
+| 2025-04 | [Structured Private Deposit Contract](https://github.com/oak-security/audit-reports/blob/main/spdBTC/2025-06-12%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Smart%20Contract%20v1.0.pdf) | Vault, WBTC | Oak Security | 0.5 weeks | Solidity / EVM |
 | 2025-04 | [Crestal Network - Nation Contracts](https://cantina.xyz/portfolio/909772c0-d1ab-4f5a-9c90-d175a98e2a39) | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM |
 | 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.7 weeks | Solidity / EVM | <!--  Magic Labs - Newton Keystore -->
 | 2025-03 | To be disclosed | Vault, Queue, CPI validation | Zenith | 1.0 weeks | Rust / Solana | <!-- Treehouse - Boring Vault -->
@@ -52,7 +52,7 @@ For more info, visit: https://decentra.vision/
 | 2024-10 | [4Real Finance](https://github.com/code-423n4/zenith-portfolio/blob/main/reports/2024-10-4real-zenith.pdf) | Treasury, Staking, Yield | Code4rena Zenith | 0.8 weeks | Rust / Solana |
 | 2024-10 | Jupiter | DEX, Aggregator | Code4rena Zenith | 0.3 weeks | Rust / Solana |
 | 2024-10 | Near One OmniBridge | Cross-chain, Asset bridging | AuditOne | 2.0 weeks | Rust / NEAR, Solidity / EVM |
-| 2024-09 | [Balancer V3](https://github.com/spearbit/portfolio/blob/master/pdfs/Balancer-Spearbit-Security-Review-September-2024.pdf) | AMM, DEX, Vault | Spearbit | 4.0 weeks | Solidity / EVM |
+| 2024-09 | [Balancer V3](https://cantina.xyz/portfolio/d8495962-f61d-4585-bbd4-e7c29332491f) | AMM, DEX, Vault | Spearbit | 4.0 weeks | Solidity / EVM |
 | 2024-08 | [Resolv](https://github.com/pashov/audits/blob/master/team/pdf/Resolv-security-review-August.pdf) | Stablecoin, Liquid staking, Futures | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
 | 2024-08 | Aurora BTC Light Client | Bitcoin client, Relay | AuditOne | 1.0 weeks | Rust / NEAR |
 | 2024-07 | [Infrared Finance](https://cantina.xyz/portfolio/89e5aa01-14ad-48f8-af3d-d1182d4ffefb) | Proof of Liquidity, Staking, Voting | Spearbit | 3.0 weeks | Solidity / EVM |
@@ -60,7 +60,7 @@ For more info, visit: https://decentra.vision/
 | 2024-06 | [Out GCC](https://github.com/oak-security/audit-reports/blob/main/Out/2024-09-24%20Audit%20Report%20-%20Out%20GCC.pdf) | Tokenization, Marketplace | Oak Security | 1.0 weeks | Rust / Solana |
 | 2024-06 | [Sharwa Finance](https://github.com/pashov/audits/blob/master/team/pdf/SharwaFinance-security-review.pdf) | Margin trading, Options | Pashov Audit Group | 1.0 weeks | Solidity / EVM |
 | 2024-06 | LayerZero ZROClaim | Cross-chain, Airdrop | Pashov Audit Group | 0.4 weeks | Solidity / EVM |
-| 2024-05 | [Pendle Finance](https://github.com/spearbit/portfolio/blob/master/pdfs/Pendle-Spearbit-Security-Review-July-2024.pdf) | Tokenization, Yield trading | Spearbit | 3.0 weeks | Solidity / EVM |
+| 2024-05 | [Pendle Finance](https://cantina.xyz/portfolio/168747e9-d65a-4e05-a144-53e9fbc1d4f5) | Tokenization, Yield trading | Spearbit | 3.0 weeks | Solidity / EVM |
 | 2024-04 | Mythical Games | Game, Infrastructure | Oak Security | 1.1 weeks | Rust / Substrate |
 
 ## Solo Engagements
