@@ -19,6 +19,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-06 | To be disclosed | Assembly, Signatures, Proxy, Multicall | BailSec | 0.6 weeks | Yul / EVM, Solidity / EVM | <!--  0x - CrossChainReceiver -->
 | 2025-06 | To be disclosed | Cross-chain, Event proofs, Storage proofs | Spearbit | 1.4 weeks | Solidity / EVM, Rust / Solana | <!--  PolymerDAO - Solana Prover Contracts -->
 | 2025-05 | To be disclosed | DEX, Perpetuals, CPI callbacks | Zenith | 2.0 weeks | Rust / Solana | <!--  GMX Solana - Callback, Competitionm -->
 | 2025-05 | To be disclosed | Treasury, Batch transfers, Ed25519 | Oak Security | 0.8 weeks | Solidity / EVM | <!--  MetaMask Card Baanx Withdraw Program -->
