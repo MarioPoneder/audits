@@ -19,7 +19,9 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-06 | To be disclosed | Token 2022, Access control | Zenith | 0.2 weeks | Rust / Solana | <!-- Meteora - Dynamic Bonding Curve & DAMMv2 (PRs) -->
 | 2025-06 | To be disclosed | Assembly, Signatures, Proxy, Multicall | BailSec | 0.6 weeks | Yul / EVM, Solidity / EVM | <!--  0x - CrossChainReceiver -->
+| 2025-06 | To be disclosed | Perpetuals, Liquidity provision, Wrapper | Oak Security | 0.4 weeks | Rust / Solana | <!--  Structured Private Deposit Jupiter Helper -->
 | 2025-06 | To be disclosed | Cross-chain, Event proofs, Storage proofs | Spearbit | 1.4 weeks | Solidity / EVM, Rust / Solana | <!--  PolymerDAO - Solana Prover Contracts -->
 | 2025-05 | To be disclosed | DEX, Perpetuals, CPI callbacks | Zenith | 2.0 weeks | Rust / Solana | <!--  GMX Solana - Callback, Competitionm -->
 | 2025-05 | To be disclosed | Treasury, Batch transfers, Ed25519 | Oak Security | 0.8 weeks | Solidity / EVM | <!--  MetaMask Card Baanx Withdraw Program -->
@@ -29,7 +31,7 @@ For more info, visit: https://decentra.vision/
 | 2025-04 | To be disclosed | Hyperliquid, Escrow, Vault | Pashov Audit Group | 0.8 weeks | Solidity / EVM | <!--  Blueberry Finance -->
 | 2025-04 | [Structured Private Deposit Contract](https://github.com/oak-security/audit-reports/blob/main/spdBTC/2025-06-12%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Smart%20Contract%20v1.0.pdf) | Vault, WBTC | Oak Security | 0.5 weeks | Solidity / EVM |
 | 2025-04 | [Crestal Network - Nation Contracts](https://cantina.xyz/portfolio/909772c0-d1ab-4f5a-9c90-d175a98e2a39) | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM |
-| 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.7 weeks | Solidity / EVM | <!--  Magic Labs - Newton Keystore -->
+| 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Magic Labs - Newton Keystore -->
 | 2025-03 | To be disclosed | Vault, Queue, CPI validation | Zenith | 1.0 weeks | Rust / Solana | <!-- Treehouse - Boring Vault -->
 | 2025-03 | [Space and Time - SxT Node](https://cantina.xyz/portfolio/706aa4b3-c4e6-4144-a0ca-2af39b7cd653) | Proof of SQL, Node, Table indexing | Spearbit | 1.5 weeks | Rust / Substrate |
 | 2025-03 | [Layer N - N1 Nord](https://cantina.xyz/portfolio/87b3a055-dcf4-4d63-b0d6-d225c4356672) | Block bridging, Merkle proofs | Spearbit | 0.8 weeks | Rust / Solana |
