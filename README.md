@@ -19,11 +19,14 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-07 | To be disclosed | Concentrated liquidity market maker, Dynamic fees | Zenith | 4.4 weeks | Rust / Solana | <!-- Meteora - DLMM -->
+| 2025-06 | To be disclosed | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM | <!-- Berachain - Reward Caps & Permit2 -->
+| 2025-06 | To be disclosed | Token generation (TGE), Vesting, Refunds | Zenith | 0.4 weeks | Rust / Solana | <!-- Legion Upgrade -->
 | 2025-06 | To be disclosed | Token 2022, Access control | Zenith | 0.2 weeks | Rust / Solana | <!-- Meteora - Dynamic Bonding Curve & DAMMv2 (PRs) -->
 | 2025-06 | [0x - CrossChainReceiver](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20CrossChainReceiver%20-%20Final%20Report.pdf) | Assembly, Signatures, Proxy, Multicall | BailSec | 0.6 weeks | Yul / EVM, Solidity / EVM |
 | 2025-06 | To be disclosed | Perpetuals, Liquidity provision, Wrapper | Oak Security | 0.4 weeks | Rust / Solana | <!--  Structured Private Deposit Jupiter Helper -->
 | 2025-06 | To be disclosed | Cross-chain, Event proofs, Storage proofs | Spearbit | 1.4 weeks | Solidity / EVM, Rust / Solana | <!--  PolymerDAO - Solana Prover Contracts -->
-| 2025-05 | To be disclosed | DEX, Perpetuals, CPI callbacks | Zenith | 2.0 weeks | Rust / Solana | <!--  GMX Solana - Callback, Competitionm -->
+| 2025-05 | [GMX Solana - Callback, Competition](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20-%20Zenith%20Audit%20Report.pdf) | DEX, Perpetuals, CPI callbacks | Zenith | 2.0 weeks | Rust / Solana |  
 | 2025-05 | To be disclosed | Treasury, Batch transfers, Ed25519 | Oak Security | 0.8 weeks | Solidity / EVM | <!--  MetaMask Card Baanx Withdraw Program -->
 | 2025-05 | To be disclosed | Rate limiting, CPI validation | Zenith | 0.2 weeks | Rust / Solana | <!-- Meteora - Dynamic Bonding Curve (PR) -->
 | 2025-05 | To be disclosed | Liquid BTC, Multi-signature, Cross-chain  | Zenith | 1.4 weeks | Cairo / Starknet | <!-- Lombard Finance - Starknet LBTC -->
