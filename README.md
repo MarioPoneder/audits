@@ -19,22 +19,22 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2025-07 | To be disclosed | Concentrated liquidity market maker, Dynamic fees | Zenith | 4.4 weeks | Rust / Solana | <!-- Meteora - DLMM -->
-| 2025-06 | To be disclosed | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM | <!-- Berachain - Reward Caps & Permit2 -->
+| 2025-07 | Meteora - DLMM | Concentrated liquidity market maker, Dynamic fees | Zenith | 4.4 weeks | Rust / Solana |
+| 2025-06 | Berachain - Reward Caps & Permit2 | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM |
 | 2025-06 | [Legion Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Legion%20-%20Zenith%20Audit%20Report.pdf) | Token generation (TGE), Vesting, Refunds | Zenith | 0.4 weeks | Rust / Solana | 
-| 2025-06 | To be disclosed | Token 2022, Access control | Zenith | 0.2 weeks | Rust / Solana | <!-- Meteora - Dynamic Bonding Curve & DAMMv2 (PRs) -->
+| 2025-06 | Meteora - Dynamic Bonding Curve & DAMMv2 (PRs) | Token 2022, Access control | Zenith | 0.2 weeks | Rust / Solana | 
 | 2025-06 | [0x - CrossChainReceiver](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20CrossChainReceiver%20-%20Final%20Report.pdf) | Assembly, Signatures, Proxy, Multicall | BailSec | 0.6 weeks | Yul / EVM, Solidity / EVM |
-| 2025-06 | To be disclosed | Perpetuals, Liquidity provision, Wrapper | Oak Security | 0.4 weeks | Rust / Solana | <!--  Structured Private Deposit Jupiter Helper -->
-| 2025-06 | To be disclosed | Cross-chain, Event proofs, Storage proofs | Spearbit | 1.4 weeks | Solidity / EVM, Rust / Solana | <!--  PolymerDAO - Solana Prover Contracts -->
+| 2025-06 | Structured Private Deposit Jupiter Helper | Perpetuals, Liquidity provision, Wrapper | Oak Security | 0.4 weeks | Rust / Solana | 
+| 2025-06 | PolymerDAO - Solana Prover Contracts | Cross-chain, Event proofs, Storage proofs | Spearbit | 1.4 weeks | Solidity / EVM, Rust / Solana |
 | 2025-05 | [GMX Solana - Callback, Competition](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20-%20Zenith%20Audit%20Report.pdf) | DEX, Perpetuals, CPI callbacks | Zenith | 2.0 weeks | Rust / Solana |  
-| 2025-05 | To be disclosed | Treasury, Batch transfers, Ed25519 | Oak Security | 0.8 weeks | Solidity / EVM | <!--  MetaMask Card Baanx Withdraw Program -->
-| 2025-05 | To be disclosed | Rate limiting, CPI validation | Zenith | 0.2 weeks | Rust / Solana | <!-- Meteora - Dynamic Bonding Curve (PR) -->
-| 2025-05 | To be disclosed | Liquid BTC, Multi-signature, Cross-chain  | Zenith | 1.4 weeks | Cairo / Starknet | <!-- Lombard Finance - Starknet LBTC -->
-| 2025-04 | To be disclosed | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Semantic Layer - SVF -->
+| 2025-05 | [MetaMask Card Baanx Withdraw Program](https://github.com/oak-security/audit-reports/blob/main/MetaMask%20Card/2025-06-20%20Audit%20Report%20-%20MetaMask%20Card%20Baanx%20Withdraw%20Program%20v1.0.pdf) | Treasury, Batch transfers, Ed25519 | Oak Security | 0.8 weeks | Solidity / EVM | 
+| 2025-05 | Meteora - Dynamic Bonding Curve (PR) | Rate limiting, CPI validation | Zenith | 0.2 weeks | Rust / Solana | 
+| 2025-05 | Lombard Finance - Starknet LBTC | Liquid BTC, Multi-signature, Cross-chain  | Zenith | 1.4 weeks | Cairo / Starknet | 
+| 2025-04 | Semantic Layer - SVF | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | 
 | 2025-04 | [Blueberry Finance](https://github.com/pashov/audits/blob/master/team/pdf/Blueberry-security-review_2025-04-30.pdf) | Hyperliquid, Escrow, Vault | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
 | 2025-04 | [Structured Private Deposit Contract](https://github.com/oak-security/audit-reports/blob/main/spdBTC/2025-06-12%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Smart%20Contract%20v1.0.pdf) | Vault, WBTC | Oak Security | 0.5 weeks | Solidity / EVM |
 | 2025-04 | [Crestal Network - Nation Contracts](https://cantina.xyz/portfolio/909772c0-d1ab-4f5a-9c90-d175a98e2a39) | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM |
-| 2025-03 | To be disclosed | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.8 weeks | Solidity / EVM | <!--  Magic Labs - Newton Keystore -->
+| 2025-03 | Magic Labs - Newton Keystore | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.8 weeks | Solidity / EVM |
 | 2025-03 | [Treehouse - Boring Vault](https://github.com/zenith-security/reports/blob/main/reports/Treehouse%20Finance%20-%20Zenith%20Audit%20Report.pdf) | Vault, Queue, CPI validation | Zenith | 1.0 weeks | Rust / Solana | 
 | 2025-03 | [Space and Time - SxT Node](https://cantina.xyz/portfolio/706aa4b3-c4e6-4144-a0ca-2af39b7cd653) | Proof of SQL, Node, Table indexing | Spearbit | 1.5 weeks | Rust / Substrate |
 | 2025-03 | [Layer N - N1 Nord](https://cantina.xyz/portfolio/87b3a055-dcf4-4d63-b0d6-d225c4356672) | Block bridging, Merkle proofs | Spearbit | 0.8 weeks | Rust / Solana |
