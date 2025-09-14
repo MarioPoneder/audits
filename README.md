@@ -20,9 +20,10 @@ For more info, visit: https://decentra.vision/
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2025-09 | To be disclosed | Staking escrow, Permissioned/-less rewards | Zenith | 1.6 weeks | Rust / Solana | <!-- Meteora - Dynamic Staking -->
-| 2025-09 | To be disclosed | Fund allocation, Merkle proofs, Vault redemptions, Call execution | Zenith | 0.8 weeks | Cairo / Starknet | <!-- ForgeYields - Starknet Vault Kit -->
+| 2025-09 | To be disclosed | Fund allocation, Merkle proofs, Vault, Call execution | Zenith | 0.8 weeks | Cairo / Starknet | <!-- ForgeYields - Starknet Vault Kit -->
 | 2025-08 | To be disclosed | Lending, Pools, Factory | Zenith | 1.0 weeks | Cairo / Starknet | <!-- Vesu v2 -->
 | 2025-08 | To be disclosed | Lending, Posititons, Vault, Extensions, Hooks | Zenith | 3.0 weeks | Cairo / Starknet | <!-- Vesu v1 - Upgrade -->
+| 2024-08 | Near One BTC Light Client | Bitcoin, Litecoin, Dogecoin, Zcash, Client, Relay | AuditOne | 0.6 weeks | Rust / NEAR |
 | 2025-07 | Meteora - DLMM | Concentrated liquidity market maker, Dynamic fees | Zenith | 4.4 weeks | Rust / Solana |
 | 2025-06 | Berachain - Reward Caps & Permit2 | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM |
 | 2025-06 | [Legion Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Legion%20-%20Zenith%20Audit%20Report.pdf) | Token generation (TGE), Vesting, Refunds | Zenith | 0.4 weeks | Rust / Solana | 
