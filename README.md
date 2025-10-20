@@ -19,10 +19,11 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-09 | [GMX Solana - Liquidity Provider, Closed Markets](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20-%20Zenith%20Audit%20Report%20(October%202025).pdf) | DEX, Perpetuals, Staking | Zenith | 2.4 weeks | Rust / Solana |  
 | 2025-09 | To be disclosed | Staking escrow, Permissioned/-less rewards | Zenith | 1.6 weeks | Rust / Solana | <!-- Meteora - Dynamic Staking -->
-| 2025-09 | To be disclosed | Fund allocation, Merkle proofs, Vault, Call execution | Zenith | 0.8 weeks | Cairo / Starknet | <!-- ForgeYields - Starknet Vault Kit -->
-| 2025-08 | To be disclosed | Lending, Pools, Factory | Zenith | 1.0 weeks | Cairo / Starknet | <!-- Vesu v2 -->
-| 2025-08 | To be disclosed | Lending, Posititons, Vault, Extensions, Hooks | Zenith | 3.0 weeks | Cairo / Starknet | <!-- Vesu v1 - Upgrade -->
+| 2025-09 | [ForgeYields - Starknet Vault Kit](https://github.com/zenith-security/reports/blob/main/reports/Forge%20-%20Zenith%20Audit%20Report.pdf) | Fund allocation, Merkle proofs, Vault, Call execution | Zenith | 0.8 weeks | Cairo / Starknet | 
+| 2025-08 | [Vesu v2](https://github.com/zenith-security/reports/blob/main/reports/Vesu%20V2%20-%20Zenith%20Audit%20Report.pdf) | Lending, Pools, Factory | Zenith | 1.0 weeks | Cairo / Starknet | 
+| 2025-08 | [Vesu v1 - Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Vesu%20V1%20-%20Zenith%20Audit%20Report.pdf) | Lending, Posititons, Vault, Extensions, Hooks | Zenith | 3.0 weeks | Cairo / Starknet |
 | 2024-08 | Near One BTC Light Client | Bitcoin, Litecoin, Dogecoin, Zcash, Client, Relay | AuditOne | 0.6 weeks | Rust / NEAR |
 | 2025-07 | Meteora - DLMM | Concentrated liquidity market maker, Dynamic fees | Zenith | 4.7 weeks | Rust / Solana |
 | 2025-06 | Berachain - Reward Caps & Permit2 | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM |
