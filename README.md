@@ -19,6 +19,9 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-11 | To be disclosed | ERC-20, Token conversion | Oak Security | 0.4 weeks | Solidity / EVM | <!--  Structured ERC20 Converter, ETH Wrapper, MaxBTC ERC20 for Eureka Bridge -->
+| 2025-10 | To be disclosed | Math, Storage, Pointers, Types, Traits, Keccak, Secp256, Syscalls  | Zenith | 3.6 weeks | Cairo / Starknet | <!-- StarkWare Industries - Cairo Standard Library -->
+| 2025-10 | To be disclosed | Byte & bit manipulation, Arrays | Zenith | 1.0 weeks | Cairo / Starknet | <!-- Starknet Foundation - Alexandria Bytes Library -->
 | 2025-09 | [GMX Solana - Liquidity Provider, Closed Markets](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20-%20Zenith%20Audit%20Report%20(October%202025).pdf) | DEX, Perpetuals, Staking | Zenith | 2.4 weeks | Rust / Solana |  
 | 2025-09 | To be disclosed | Staking escrow, Permissioned/-less rewards | Zenith | 1.6 weeks | Rust / Solana | <!-- Meteora - Dynamic Staking -->
 | 2025-09 | [ForgeYields - Starknet Vault Kit](https://github.com/zenith-security/reports/blob/main/reports/Forge%20-%20Zenith%20Audit%20Report.pdf) | Fund allocation, Merkle proofs, Vault, Call execution | Zenith | 0.8 weeks | Cairo / Starknet | 
