@@ -39,7 +39,7 @@ For more info, visit: https://decentra.vision/
 | 2025-05 | [MetaMask Card Baanx Withdraw Program](https://github.com/oak-security/audit-reports/blob/main/MetaMask%20Card/2025-06-20%20Audit%20Report%20-%20MetaMask%20Card%20Baanx%20Withdraw%20Program%20v1.0.pdf) | Treasury, Batch transfers, Ed25519 | Oak Security | 0.8 weeks | Solidity / EVM | 
 | 2025-05 | Meteora - Dynamic Bonding Curve (PR) | Rate limiting, CPI validation | Zenith | 0.2 weeks | Rust / Solana | 
 | 2025-05 | Lombard Finance - Starknet LBTC | Liquid BTC, Multi-signature, Cross-chain  | Zenith | 1.4 weeks | Cairo / Starknet | 
-| 2025-04 | Semantic Layer - SVF | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | 
+| 2025-04 | [Semantic Layer - SVF](https://cantina.xyz/portfolio/94eda137-c9c0-4fef-9fe0-cefbf02abda6) | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | 
 | 2025-04 | [Blueberry Finance](https://github.com/pashov/audits/blob/master/team/pdf/Blueberry-security-review_2025-04-30.pdf) | Hyperliquid, Escrow, Vault | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
 | 2025-04 | [Structured Private Deposit Contract](https://github.com/oak-security/audit-reports/blob/main/spdBTC/2025-06-12%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Smart%20Contract%20v1.0.pdf) | Vault, WBTC | Oak Security | 0.5 weeks | Solidity / EVM |
 | 2025-04 | [Crestal Network - Nation Contracts](https://cantina.xyz/portfolio/909772c0-d1ab-4f5a-9c90-d175a98e2a39) | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM |
