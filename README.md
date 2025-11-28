@@ -19,6 +19,8 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2025-11 | To be disclosed | Stablecoin, Swap, Compliance, Signatures | Spearbit | 2.0 weeks | Rust / Solana | <!-- Ondo Finance - GM Solana -->
+| 2025-11 | To be disclosed | Merkle proofs, Bitfields, Quorum | Oak Security | 0.4 weeks | Solidity / EVM | <!--  Snowbridge Fiat Shamir Beefy (PR) -->
 | 2025-11 | To be disclosed | ERC-20, Token conversion | Oak Security | 0.4 weeks | Solidity / EVM | <!--  Structured ERC20 Converter, ETH Wrapper, MaxBTC ERC20 for Eureka Bridge -->
 | 2025-10 | To be disclosed | Math, Storage, Pointers, Types, Traits, Keccak, Secp256, Syscalls  | Zenith | 3.6 weeks | Cairo / Starknet | <!-- StarkWare Industries - Cairo Standard Library -->
 | 2025-10 | To be disclosed | Byte & bit manipulation, Arrays | Zenith | 1.0 weeks | Cairo / Starknet | <!-- Starknet Foundation - Alexandria Bytes Library -->
@@ -41,7 +43,7 @@ For more info, visit: https://decentra.vision/
 | 2025-05 | Lombard Finance - Starknet LBTC | Liquid BTC, Multi-signature, Cross-chain  | Zenith | 1.4 weeks | Cairo / Starknet | 
 | 2025-04 | [Semantic Layer - SVF](https://cantina.xyz/portfolio/94eda137-c9c0-4fef-9fe0-cefbf02abda6) | Uniswap v4 hooks, AI fund management, Staking | Spearbit | 0.8 weeks | Solidity / EVM | 
 | 2025-04 | [Blueberry Finance](https://github.com/pashov/audits/blob/master/team/pdf/Blueberry-security-review_2025-04-30.pdf) | Hyperliquid, Escrow, Vault | Pashov Audit Group | 0.8 weeks | Solidity / EVM |
-| 2025-04 | [Structured Private Deposit Contract](https://github.com/oak-security/audit-reports/blob/main/spdBTC/2025-06-12%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Smart%20Contract%20v1.0.pdf) | Vault, WBTC | Oak Security | 0.5 weeks | Solidity / EVM |
+| 2025-04 | [Structured Private Deposit Contract](https://github.com/oak-security/audit-reports/blob/main/spdBTC/2025-06-12%20Audit%20Report%20-%20Structured%20Private%20Deposit%20Smart%20Contract%20v1.0.pdf) | Vault, WBTC, Whitelist | Oak Security | 0.6 weeks | Solidity / EVM |
 | 2025-04 | [Crestal Network - Nation Contracts](https://cantina.xyz/portfolio/909772c0-d1ab-4f5a-9c90-d175a98e2a39) | Bonding curve, Token distribution, Liquidity provision | Spearbit | 0.8 weeks | Solidity / EVM |
 | 2025-03 | Magic Labs - Newton Keystore | Staking, Rewards, Airdrop, Checkpoints | Spearbit | 0.8 weeks | Solidity / EVM |
 | 2025-03 | [Treehouse - Boring Vault](https://github.com/zenith-security/reports/blob/main/reports/Treehouse%20Finance%20-%20Zenith%20Audit%20Report.pdf) | Vault, Queue, CPI validation | Zenith | 1.0 weeks | Rust / Solana | 
