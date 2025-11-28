@@ -30,7 +30,7 @@ For more info, visit: https://decentra.vision/
 | 2025-08 | [Vesu v2](https://github.com/zenith-security/reports/blob/main/reports/Vesu%20V2%20-%20Zenith%20Audit%20Report.pdf) | Lending, Pools, Factory | Zenith | 1.0 weeks | Cairo / Starknet | 
 | 2025-08 | [Vesu v1 - Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Vesu%20V1%20-%20Zenith%20Audit%20Report.pdf) | Lending, Posititons, Vault, Extensions, Hooks | Zenith | 3.0 weeks | Cairo / Starknet |
 | 2024-08 | Near One BTC Light Client | Bitcoin, Litecoin, Dogecoin, Zcash, Client, Relay | AuditOne | 0.6 weeks | Rust / NEAR |
-| 2025-07 | Meteora - DLMM | Concentrated liquidity market maker, Dynamic fees | Zenith | 4.7 weeks | Rust / Solana |
+| 2025-07 | [Meteora - DLMM](https://github.com/zenith-security/reports/blob/main/reports/Meteora%20DLMM%20-%20Zenith%20Audit%20Report.pdf) | Concentrated liquidity market maker, Dynamic fees | Zenith | 4.7 weeks | Rust / Solana |
 | 2025-06 | Berachain - Reward Caps & Permit2 | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM |
 | 2025-06 | [Legion Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Legion%20-%20Zenith%20Audit%20Report.pdf) | Token generation (TGE), Vesting, Refunds | Zenith | 0.4 weeks | Rust / Solana | 
 | 2025-06 | Meteora - Dynamic Bonding Curve & DAMMv2 (PRs) | Token 2022, Access control | Zenith | 0.2 weeks | Rust / Solana | 
