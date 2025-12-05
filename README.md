@@ -21,7 +21,7 @@ For more info, visit: https://decentra.vision/
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2025-11 | To be disclosed | Stablecoin, Swap, Compliance, Signatures | Spearbit | 2.0 weeks | Rust / Solana | <!-- Ondo Finance - GM Solana -->
 | 2025-11 | To be disclosed | Merkle proofs, Bitfields, Quorum | Oak Security | 0.4 weeks | Solidity / EVM | <!--  Snowbridge Fiat Shamir Beefy (PR) -->
-| 2025-11 | To be disclosed | ERC-20, Token conversion | Oak Security | 0.4 weeks | Solidity / EVM | <!--  Structured ERC20 Converter, ETH Wrapper, MaxBTC ERC20 for Eureka Bridge -->
+| 2025-11 | [Structured ERC20 Converter, ETH Wrapper, MaxBTC ERC20 for Eureka Bridge](https://github.com/oak-security/audit-reports/blob/main/Structured/2025-11-25%20Audit%20Report%20-%20Structured%20ERC20%20Converter%2C%20ETH%20Wrapper%2C%20MaxBTC%20ERC20%20for%20Eureka%20Bridge%20v1.0.pdf) | ERC-20, Token conversion | Oak Security | 0.4 weeks | Solidity / EVM | 
 | 2025-10 | StarkWare Industries - Cairo Standard Library | Math, Storage, Pointers, Types, Traits, Keccak, Secp256, Syscalls  | Zenith | 3.6 weeks | Cairo / Starknet |
 | 2025-10 | Starknet Foundation - Alexandria Bytes Library | Byte & bit manipulation, Arrays | Zenith | 1.0 weeks | Cairo / Starknet | 
 | 2025-09 | [GMX Solana - Liquidity Provider, Closed Markets](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20-%20Zenith%20Audit%20Report%20(October%202025).pdf) | DEX, Perpetuals, Staking | Zenith | 2.4 weeks | Rust / Solana |  
