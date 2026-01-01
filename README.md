@@ -21,7 +21,7 @@ For more info, visit: https://decentra.vision/
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2025-12 | America.fun - AOL Staking | Staking, Snapshot, Rewards  | Zenith | 1.0 weeks | Rust / Solana | 
 | 2025-12 | StarkWare Industries - Cairo Standard Library #2 | Blake, Sha256, Poseidon, ECDSA, Arrays, Operators  | Zenith | 1.2 weeks | Cairo / Starknet | 
-| 2025-12 | Snowbridge Fiat Shamir Beefy (PR) | Merkle proofs, Bitfields, Quorum | Oak Security | 0.4 weeks | Solidity / EVM | 
+| 2025-12 | [Snowbridge Fiat Shamir Beefy (PR)](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-12-29%20Audit%20Report%20-%20Snowbridge%20Fiat%20Shamir%20Beefy%20Changes%20v1.0.pdf) | Merkle proofs, Bitfields, Quorum | Oak Security | 0.4 weeks | Solidity / EVM | 
 | 2025-11 | Ondo Finance - GM Solana | Stablecoin, Swap, Compliance, Signatures | Spearbit | 2.0 weeks | Rust / Solana | 
 | 2025-11 | [Structured ERC20 Converter, ETH Wrapper, MaxBTC ERC20 for Eureka Bridge](https://github.com/oak-security/audit-reports/blob/main/Structured/2025-11-25%20Audit%20Report%20-%20Structured%20ERC20%20Converter%2C%20ETH%20Wrapper%2C%20MaxBTC%20ERC20%20for%20Eureka%20Bridge%20v1.0.pdf) | ERC-20, Token conversion | Oak Security | 0.4 weeks | Solidity / EVM | 
 | 2025-10 | StarkWare Industries - Cairo Standard Library | Math, Storage, Pointers, Types, Traits, Keccak, Secp256, Syscalls  | Zenith | 3.6 weeks | Cairo / Starknet |
