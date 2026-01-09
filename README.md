@@ -15,6 +15,12 @@ For more info, visit: https://decentra.vision/
 
 ## Team Engagements
 
+### 2026
+
+| Begin month | Project | Category | Provider | Duration | Platform |
+| :---: | :--- | :---  | :--- | :---: | :--- |
+| 2026-01 | 0x - CrossChainReceiver (Update) | Assembly, Signatures, Proxy, Multicall, Factory, ERC-2771 | BailSec | 0.8 weeks | Yul / EVM, Solidity / EVM |
+
 ### 2025
 
 | Begin month | Project | Category | Provider | Duration | Platform |
@@ -36,7 +42,7 @@ For more info, visit: https://decentra.vision/
 | 2025-06 | Berachain - Reward Caps & Permit2 | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM |
 | 2025-06 | [Legion Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Legion%20-%20Zenith%20Audit%20Report.pdf) | Token generation (TGE), Vesting, Refunds | Zenith | 0.4 weeks | Rust / Solana | 
 | 2025-06 | Meteora - Dynamic Bonding Curve & DAMMv2 (PRs) | Token 2022, Access control | Zenith | 0.2 weeks | Rust / Solana | 
-| 2025-06 | [0x - CrossChainReceiver](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20CrossChainReceiver%20-%20Final%20Report.pdf) | Assembly, Signatures, Proxy, Multicall | BailSec | 0.6 weeks | Yul / EVM, Solidity / EVM |
+| 2025-06 | [0x - CrossChainReceiver](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20CrossChainReceiver%20-%20Final%20Report.pdf) | Assembly, Signatures, Proxy, Multicall, Permit2, ERC-7739 | BailSec | 0.6 weeks | Yul / EVM, Solidity / EVM |
 | 2025-06 | Structured Private Deposit Jupiter Helper | Perpetuals, Liquidity provision, Wrapper | Oak Security | 0.4 weeks | Rust / Solana | 
 | 2025-06 | PolymerDAO - Solana Prover Contracts | Cross-chain, Event proofs, Storage proofs | Spearbit | 1.4 weeks | Solidity / EVM, Rust / Solana |
 | 2025-05 | [GMX Solana - Callback, Competition](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20-%20Zenith%20Audit%20Report.pdf) | DEX, Perpetuals, CPI callbacks | Zenith | 2.0 weeks | Rust / Solana |  
