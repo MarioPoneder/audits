@@ -26,7 +26,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2025-12 | America.fun - AOL Staking | Staking, Snapshot, Rewards  | Zenith | 1.0 weeks | Rust / Solana | 
+| 2025-12 | [America.fun - AOL Staking](https://github.com/zenith-security/reports/blob/main/reports/America.Fun%20-%20Zenith%20Audit%20Report.pdf) | Staking, Snapshot, Rewards  | Zenith | 1.0 weeks | Rust / Solana | 
 | 2025-12 | StarkWare Industries - Cairo Standard Library #2 | Blake, Sha256, Poseidon, ECDSA, Arrays, Operators  | Zenith | 1.2 weeks | Cairo / Starknet | 
 | 2025-12 | [Snowbridge Fiat Shamir Beefy (PR)](https://github.com/oak-security/audit-reports/blob/main/Snowbridge/2025-12-29%20Audit%20Report%20-%20Snowbridge%20Fiat%20Shamir%20Beefy%20Changes%20v1.0.pdf) | Merkle proofs, Bitfields, Quorum | Oak Security | 0.4 weeks | Solidity / EVM | 
 | 2025-11 | Ondo Finance - GM Solana | Stablecoin, Swap, Compliance, Signatures | Spearbit | 2.0 weeks | Rust / Solana | 
