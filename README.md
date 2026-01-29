@@ -19,6 +19,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2026-01 | Moonbirds - BIRB Token Distributor | LayerZero, OFT, NFT, Merkle proofs, Signatures | Zenith | 1.4 weeks | Rust / Solana, Solidity / EVM | 
 | 2026-01 | [Solomon Labs - Vault & Stake](https://cantina.xyz/portfolio/52ab8842-25b0-4434-8de0-8c5654ce1735) | Vault, Staking, Stablecoin, Vesting | Spearbit | 1.0 weeks | Rust / Solana | 
 | 2026-01 | 0x - CrossChainReceiver (Update) | Assembly, Signatures, Proxy, Multicall, Factory, ERC-2771 | BailSec | 0.8 weeks | Yul / EVM, Solidity / EVM |
 
