@@ -19,7 +19,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2026-01 | Solomon Labs - Vault & Stake | Vault, Staking, Stablecoin, Vesting | Spearbit | 1.0 weeks | Rust / Solana | 
+| 2026-01 | [Solomon Labs - Vault & Stake](https://cantina.xyz/portfolio/52ab8842-25b0-4434-8de0-8c5654ce1735) | Vault, Staking, Stablecoin, Vesting | Spearbit | 1.0 weeks | Rust / Solana | 
 | 2026-01 | 0x - CrossChainReceiver (Update) | Assembly, Signatures, Proxy, Multicall, Factory, ERC-2771 | BailSec | 0.8 weeks | Yul / EVM, Solidity / EVM |
 
 ### 2025
