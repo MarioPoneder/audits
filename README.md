@@ -19,6 +19,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+| 2026-04 | To be disclosed | Crypto casino, Pinocchio, MagicBlock Ephemeral Rollups, VRF, Bankroll management, Game  | Zenith | 7.6 weeks | Rust / Solana | 
 | 2026-04 | Jupiter - Prediction Market | Prediction market, Escrow, Fractional contracts  | Zenith | 1.0 weeks | Rust / Solana | 
 | 2026-04 | Tezoro - Aggregator | Vault, Yield aggregator, Rewards, AAVE, Compound, Fluid, Morpho  | Oak Security | 1.7 weeks | Solidity / EVM | 
 | 2026-03 | Mantle - Cross-chain Mint Bridge | LayerZero, Jupiter, Cross-chain, Bridging  | Zenith | 0.6 weeks | Rust / Solana | 
