@@ -21,7 +21,7 @@ For more info, visit: https://decentra.vision/
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2026-04 | To be disclosed | Crypto casino, Pinocchio, MagicBlock Ephemeral Rollups, VRF, Bankroll management, Game  | Zenith | 7.6 weeks | Rust / Solana | 
 | 2026-04 | Jupiter - Prediction Market | Prediction market, Escrow, Fractional contracts  | Zenith | 1.0 weeks | Rust / Solana | 
-| 2026-04 | Tezoro - Aggregator | Vault, Yield aggregator, Rewards, AAVE, Compound, Fluid, Morpho  | Oak Security | 1.7 weeks | Solidity / EVM | 
+| 2026-04 | [Tezoro - Aggregator](https://github.com/oak-security/audit-reports/blob/main/Tezoro/2026-05-15%20Audit%20Report%20-%20Tezoro%20v1.0.pdf) | Vault, Yield aggregator, Rewards, AAVE, Compound, Fluid, Morpho  | Oak Security | 1.7 weeks | Solidity / EVM | 
 | 2026-03 | Mantle - Cross-chain Mint Bridge | LayerZero, Jupiter, Cross-chain, Bridging  | Zenith | 0.6 weeks | Rust / Solana | 
 | 2026-02 | Lightspeed - CLOB Rollup | Rollup, Orderbook, Oracle, Spot, Perpetuals | Zenith | 5.6 weeks | Rust / Infrastructure | 
 | 2026-01 | Moonbirds - BIRB Token Distributor [Solidity](https://github.com/zenith-security/reports/blob/main/reports/Moonbirds%20BIRB%20Token%20Distributor%20-%20Zenith%20Audit%20Report.pdf) / [Rust](https://github.com/zenith-security/reports/blob/main/reports/Moonbirds%20-%20Zenith%20Audit%20Report.pdf) | LayerZero, OFT, NFT, Merkle proofs, Signatures | Zenith | 1.4 weeks | Rust / Solana, Solidity / EVM | 
