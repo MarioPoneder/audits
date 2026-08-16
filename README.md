@@ -19,6 +19,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
+  | 2026-08 | Daimon DAO - Deflationary Governance Token | Governance, Staking, Token migration, Reflection tokenomics, AMM, UUPS | Zenith | 0.6 weeks | Solidity / EVM | 
 | 2026-07 | Interfold - Encrypted Execution Protocol | Fully homomorphic encryption, ZK proofs, Node registry, Committee sortition, Staking, Slashing, Refunds | Zenith | 2.6 weeks | Solidity / EVM | 
 | 2026-07 | GMX  - Chainlink v11 Integration | DEX, Perpetuals, Oracle, Position accounting, Open interest  | Zenith | 0.4 weeks | Rust / Solana | 
 | 2026-07 | Mantle - Fee Manager | Stablecoin, Cross-chain, LayerZero, Payments, Fee accounting | Zenith | 0.6 weeks | Solidity / EVM | 
