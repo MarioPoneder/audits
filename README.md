@@ -19,12 +19,14 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :---  | :--- | :---: | :--- |
-| 2026-09 | To be disclosed | Data availability (Avail / VectorX), EIP-712 attestations, Ciphertext references, Public-key chunking | Zenith | 0.6 weeks | Solidity / EVM | 
-| 2026-08 | To be disclosed | Stablecoin, Token conversion, Settlement, Cross-chain, Token-2022, Fee & limit accounting | Zenith | 2.4 weeks | Rust / SVM | 
+| 2026-09 | To be disclosed | Prediction market, LMSR AMM, Liquidity provision, Position accounting, Settlement, Fee accounting | Zenith | 1.0 weeks | Rust / SVM | 
+| 2026-09 | GMX - Builder Fee | DEX, Perpetuals, Fee accounting, Order lifecycle, Transaction bundling  | Zenith | 0.4 weeks | Rust / SVM | 
+| 2026-09 | Interfold - Proof-backed Data Availability | Data availability (Avail / VectorX), EIP-712 attestations, Ciphertext references, Public-key chunking | Zenith | 0.6 weeks | Solidity / EVM | 
+| 2026-08 | Solomon Labs - Reserve-Backed Stablecoin | Stablecoin, Token conversion, Settlement, Cross-chain, Token-2022, Fee & limit accounting | Zenith | 2.4 weeks | Rust / SVM | 
 | 2026-08 | Altitude DP - Unit Core | Stablecoin, Token conversion, Vault, Staking, Lending, Signatures | Zenith | 0.4 weeks | Solidity / EVM | 
 | 2026-08 | [Daimon DAO - Deflationary Governance Token](https://github.com/zenith-security/reports/blob/main/reports/Daimon%20DAO%20-%20Zenith%20Audit%20Report.pdf) | Governance, Staking, Token migration, Reflection tokenomics, AMM, UUPS | Zenith | 0.6 weeks | Solidity / EVM | 
 | 2026-07 | [Interfold - Encrypted Execution Protocol](https://github.com/zenith-security/reports/blob/main/reports/Interfold%20Encrypted%20Execution%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | Fully homomorphic encryption, ZK proofs, Node registry, Committee sortition, Staking, Slashing, Refunds | Zenith | 2.6 weeks | Solidity / EVM | 
-| 2026-07 | GMX  - Chainlink v11 Integration | DEX, Perpetuals, Oracle, Position accounting, Open interest  | Zenith | 0.4 weeks | Rust / SVM | 
+| 2026-07 | GMX - Chainlink v11 Integration | DEX, Perpetuals, Oracle, Position accounting, Open interest  | Zenith | 0.4 weeks | Rust / SVM | 
 | 2026-07 | Mantle - Fee Manager | Stablecoin, Cross-chain, LayerZero, Payments, Fee accounting | Zenith | 0.6 weeks | Solidity / EVM | 
 | 2026-07 | Jupiter - Program Fees | Prediction market, Escrow, Fractional contracts, Settlement, Fee accounting  | Zenith | 0.4 weeks | Rust / SVM | 
 | 2026-07 | [Nawa Finance - Stable ETH Vault](https://github.com/oak-security/audit-reports/blob/main/Nawa/2026-07-16%20Audit%20Report%20-%20Nawa%20USDT%20Stable%20Vault%20(Ethereum)%20v1.0.pdf) | Vault, Stablecoin, Private credit, Redemption queue, NAV oracle, UUPS  | Oak Security | 0.6 weeks | Solidity / EVM | 
@@ -108,6 +110,7 @@ For more info, visit: https://decentra.vision/
 
 | Begin month | Project | Category | Provider | Duration | Platform |
 | :---: | :--- | :--- | :--- | :---: | :--- |
+| 2026-09 | Tailwind Zone - Clank Trade | Bonding curve, Token launchpad, Uniswap v4, Liquidity provision, Tokenized stocks, Fee accounting | Decentra Vision | 1.4 weeks | Solidity / EVM |
 | 2025-12 | [Possum Finance](https://gist.github.com/MarioPoneder/6ffb8cfc301811bf09fe49db460b357d) ([ref](https://www.possum.finance/docs/resources/security-audits)) | Prediction markets, Vault, Staking | Decentra Vision | 0.8 weeks | Solidity / EVM |
 | 2025-06 | [Possum TopCut](https://gist.github.com/MarioPoneder/d2a6a1d6a495d22790795c0302c3dd55) | Precision markets, Vault, Rewards | Decentra Vision | 0.6 weeks | Solidity / EVM |
 | 2025-02 | [Yaspter Contracts v3](https://gist.github.com/MarioPoneder/6f091337968bd17669c4fcd184b4f9c0) | Game, Vault, Rewards, Bonding curve | Decentra Vision | 0.5 weeks | Rust / SVM |
