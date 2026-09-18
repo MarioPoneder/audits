@@ -21,12 +21,12 @@ For more info, visit: https://decentra.vision/
 | :---: | :--- | :---  | :--- | :---: | :--- |
 | 2026-09 | To be disclosed | Prediction market, LMSR AMM, Liquidity provision, Position accounting, Settlement, Fee accounting | Zenith | 1.0 weeks | Rust / SVM | 
 | 2026-09 | GMX - Builder Fee | DEX, Perpetuals, Fee accounting, Order lifecycle, Transaction bundling  | Zenith | 0.4 weeks | Rust / SVM | 
-| 2026-09 | Interfold - Proof-backed Data Availability | Data availability (Avail / VectorX), EIP-712 attestations, Ciphertext references, Public-key chunking | Zenith | 0.6 weeks | Solidity / EVM | 
-| 2026-08 | Solomon Labs - Reserve-Backed Stablecoin | Stablecoin, Token conversion, Settlement, Cross-chain, Token-2022, Fee & limit accounting | Zenith | 2.4 weeks | Rust / SVM | 
-| 2026-08 | Altitude DP - Unit Core | Stablecoin, Token conversion, Vault, Staking, Lending, Signatures | Zenith | 0.4 weeks | Solidity / EVM | 
+| 2026-09 | [Interfold - Proof-backed Data Availability](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Interfold.pdf) | Data availability (Avail / VectorX), EIP-712 attestations, Ciphertext references, Public-key chunking | Zenith | 0.6 weeks | Solidity / EVM | 
+| 2026-08 | [Solomon Labs - Reserve-Backed Stablecoin](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Solomon.pdf) | Stablecoin, Token conversion, Settlement, Cross-chain, Token-2022, Fee & limit accounting | Zenith | 2.4 weeks | Rust / SVM | 
+| 2026-08 | [Altitude DP - Unit Core](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Altitude.pdf) | Stablecoin, Token conversion, Vault, Staking, Lending, Signatures | Zenith | 0.4 weeks | Solidity / EVM | 
 | 2026-08 | [Daimon DAO - Deflationary Governance Token](https://github.com/zenith-security/reports/blob/main/reports/Daimon%20DAO%20-%20Zenith%20Audit%20Report.pdf) | Governance, Staking, Token migration, Reflection tokenomics, AMM, UUPS | Zenith | 0.6 weeks | Solidity / EVM | 
 | 2026-07 | [Interfold - Encrypted Execution Protocol](https://github.com/zenith-security/reports/blob/main/reports/Interfold%20Encrypted%20Execution%20Protocol%20-%20Zenith%20Audit%20Report.pdf) | Fully homomorphic encryption, ZK proofs, Node registry, Committee sortition, Staking, Slashing, Refunds | Zenith | 2.6 weeks | Solidity / EVM | 
-| 2026-07 | GMX - Chainlink v11 Integration | DEX, Perpetuals, Oracle, Position accounting, Open interest  | Zenith | 0.4 weeks | Rust / SVM | 
+| 2026-07 | [GMX - Chainlink v11 Integration](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20Chainlink%20v11%20Integration%20%232%20-%20Zenith%20Audit%20Report.pdf) | DEX, Perpetuals, Oracle, Position accounting, Open interest  | Zenith | 0.4 weeks | Rust / SVM | 
 | 2026-07 | Mantle - Fee Manager | Stablecoin, Cross-chain, LayerZero, Payments, Fee accounting | Zenith | 0.6 weeks | Solidity / EVM | 
 | 2026-07 | Jupiter - Program Fees | Prediction market, Escrow, Fractional contracts, Settlement, Fee accounting  | Zenith | 0.4 weeks | Rust / SVM | 
 | 2026-07 | [Nawa Finance - Stable ETH Vault](https://github.com/oak-security/audit-reports/blob/main/Nawa/2026-07-16%20Audit%20Report%20-%20Nawa%20USDT%20Stable%20Vault%20(Ethereum)%20v1.0.pdf) | Vault, Stablecoin, Private credit, Redemption queue, NAV oracle, UUPS  | Oak Security | 0.6 weeks | Solidity / EVM | 
@@ -57,7 +57,7 @@ For more info, visit: https://decentra.vision/
 | 2025-08 | [Vesu v1 - Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Vesu%20V1%20-%20Zenith%20Audit%20Report.pdf) | Lending, Posititons, Vault, Extensions, Hooks | Zenith | 3.0 weeks | Cairo / Starknet |
 | 2025-08 | Near One BTC Light Client | Bitcoin, Litecoin, Dogecoin, Zcash, Client, Relay | AuditOne | 0.6 weeks | Rust / NEAR |
 | 2025-07 | [Meteora - DLMM](https://github.com/zenith-security/reports/blob/main/reports/Meteora%20DLMM%20-%20Zenith%20Audit%20Report.pdf) | Concentrated liquidity market maker, Dynamic fees | Zenith | 4.7 weeks | Rust / SVM |
-| 2025-06 | Berachain - Reward Caps & Permit2 | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM |
+| 2025-06 | [Berachain - Reward Caps & Permit2](https://github.com/zenith-security/reports/blob/main/reports/Berachain%20Reward%20Caps%20-%20Zenith%20Audit%20Report.pdf) | Vault, Reward rate limiting, Permit2 | Zenith | 0.6 weeks | Solidity / EVM |
 | 2025-06 | [Legion Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Legion%20-%20Zenith%20Audit%20Report.pdf) | Token generation (TGE), Vesting, Refunds | Zenith | 0.4 weeks | Rust / SVM | 
 | 2025-06 | Meteora - Dynamic Bonding Curve & DAMMv2 (PRs) | Token 2022, Access control | Zenith | 0.2 weeks | Rust / SVM | 
 | 2025-06 | [0x - CrossChainReceiver](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20CrossChainReceiver%20-%20Final%20Report.pdf) | Assembly, Signatures, Proxy, Multicall, Permit2, ERC-7739 | BailSec | 0.6 weeks | Yul / EVM, Solidity / EVM |
