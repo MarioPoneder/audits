@@ -172,9 +172,12 @@ Project links lead to public reports. Each engagement lists its start month, dur
 | :--- | :--- |
 | 🟨 Medium | [Limited availability of balance_of(...) method](https://github.com/code-423n4/2024-03-phala-network-findings/issues/50)<br>Selected for report: [M-01](https://code4rena.com/reports/2024-03-phala-network#m-01-limited-availability-of-balance_of-method) |
 
-**Placement announcement**
+<details>
+<summary>Placement announcement</summary>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Awards have been announced for the $60,500 USDC <a href="https://twitter.com/PhalaNetwork?ref_src=twsrc%5Etfw">@PhalaNetwork</a> audit! 🥳<br><br>Top 5:<br>🥇 <a href="https://twitter.com/DadeKuma?ref_src=twsrc%5Etfw">@DadeKuma</a> - $15,937.95 USDC<br>🥈 zhaojie - $15,225.87 USDC<br>🥉 <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a> - $12,619.42 USDC<br>🏅 Koolex - $2,606.45 USDC<br>🏅 Cryptor - $994.09 USDC <a href="https://t.co/C15fmXxxJ2">pic.twitter.com/C15fmXxxJ2</a></p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1774840564347007466?ref_src=twsrc%5Etfw">April 1, 2024</a></blockquote>
+
+</details>
 
 ### 2024-01: [Opus](https://code4rena.com/audits/2024-01-opus) :3rd_place_medal:
 
@@ -186,9 +189,12 @@ Project links lead to public reports. Each engagement lists its start month, dur
 | 🟨 Medium | [Unhealthy troves with LTV > 90% cannot always be absorbed as intended](https://github.com/code-423n4/2024-01-opus-findings/issues/11)<br>Selected for report: [M-09](https://code4rena.com/reports/2024-01-opus#m-09-unhealthy-troves-with-ltv--90-cannot-always-be-absorbed-as-intended) |
 | 🟦 Low | [Low Risk and Non-Critical Issues](https://github.com/code-423n4/2024-01-opus-findings/issues/85)<br>Selected for report: [QA](https://code4rena.com/reports/2024-01-opus#low-risk-and-non-critical-issues) |
 
-**Placement announcement**
+<details>
+<summary>Placement announcement</summary>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rounding out the Top 3 was <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a>! 🥉<br><br>Rank: #3 (#86 All-time) <br>Medium-risk findings: 2 (2 solo) <a href="https://t.co/vCgs0GlnQY">pic.twitter.com/vCgs0GlnQY</a></p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1765461990728708298?ref_src=twsrc%5Etfw">March 6, 2024</a></blockquote>
+
+</details>
 
 **2023 · 16 Code4rena competitions**
 
@@ -291,9 +297,12 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 | :--- | :--- |
 | 🟥 High | [Slot and block number proofs not required for verification of withdrawal (multiple withdrawals possible)](https://github.com/code-423n4/2023-04-eigenlayer-findings/issues/388)<br>Selected for report: [H-01](https://code4rena.com/reports/2023-04-eigenlayer#h-01-slot-and-block-number-proofs-not-required-for-verification-of-withdrawal-multiple-withdrawals-possible) |
 
-**Placement announcement**
+<details>
+<summary>Placement announcement</summary>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Awards have been announced for the $90,500 USDC <a href="https://twitter.com/eigenlayer?ref_src=twsrc%5Etfw">@eigenlayer</a> audit 🤝<br><br>Top 5:<br>🥇 <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a> - $13,081.90 USDC<br>🥈 volodya - $12,193.66 USDC<br>🥉 windowhan001 - $5,031.50 USDC<br>🏅 <a href="https://twitter.com/CyfrinAudits?ref_src=twsrc%5Etfw">@CyfrinAudits</a> - $3,177.34 USDC<br>🏅 <a href="https://twitter.com/QiuhaoLi?ref_src=twsrc%5Etfw">@QiuhaoLi</a> - $2,972.95 USDC </p>&mdash; Code4rena (@code4rena) <a href="https://twitter.com/code4rena/status/1667379760614502402?ref_src=twsrc%5Etfw">June 10, 2023</a></blockquote>
+
+</details>
 
 ### 2023-04: [Rubicon v2](https://code4rena.com/contests/2023-04-rubicon-v2)
 Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena.com/roles/certified-contributors/backstage-wardens#to-request-+backstage-access).
@@ -349,9 +358,12 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 | 🟦 Low | [Missing mutable constraint leads to withdrawal DoS due to read-only signer](https://cantina.xyz/code/829164bf-7fba-4b84-a6b8-76652205bd97/findings/7f40f7ec-a1da-4dd7-b40f-90664389b586) |
 | 🟦 Low | [Attacker can frontrun lockbox initialization to provide own fee token accounts](https://cantina.xyz/code/829164bf-7fba-4b84-a6b8-76652205bd97/findings/e92ec89f-9397-4c3a-839a-162fed09c2b9) |
 
-**Placement announcement**
+<details>
+<summary>Placement announcement</summary>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations to our resident rustaceans on an excellent job during the <a href="https://twitter.com/autonolas?ref_src=twsrc%5Etfw">@autonolas</a> security competition.<br><br>Here are your top 3 placements:<br><br>🥇: <a href="https://twitter.com/99Crits?ref_src=twsrc%5Etfw">@99crits</a> - $22,275.61<br>🥈: <a href="https://twitter.com/MarioPoneder?ref_src=twsrc%5Etfw">@MarioPoneder</a> - $8,590.35<br>🥉: <a href="https://twitter.com/meltedblocks?ref_src=twsrc%5Etfw">@meltedblocks</a> - $6,682.68<br><br>Full Results Below! <a href="https://t.co/Cr5ATXONbQ">pic.twitter.com/Cr5ATXONbQ</a></p>&mdash; Cantina 🪐 (@cantinaxyz) <a href="https://twitter.com/cantinaxyz/status/1769846698514231628?ref_src=twsrc%5Etfw">March 18, 2024</a></blockquote>
+
+</details>
 
 ### 2023-11: [Superform](https://cantina.xyz/competitions/2cd0b038-3e32-4db6-b488-0f85b6f0e49f)
 
