@@ -135,7 +135,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 | **[Yeet Cup](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/Yeet-Security-Review.pdf)**<br>Game, Yield | 2024-05 · 0.8 weeks<br>Shieldify<br>Solidity / EVM |
 | **[Olas Lockbox v2 - Mitigation review](https://github.com/valory-xyz/lockbox-solana/blob/13859c034d4be1286b3f2f0458aed435adef9c19/lockbox2/doc/External_Audit_LockboxV2.pdf)**<br>Liquidity bonding | 2024-03 · 0.4 weeks<br>Cantina<br>Rust / SVM |
 
-[Back to top](#mario-poneder)
+[Back to top](#public-findings)
 
 ---
 
@@ -330,7 +330,7 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 
 </details>
 
-[Back to top](#mario-poneder)
+[Back to top](#public-findings)
 
 ---
 
@@ -430,4 +430,4 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 
 ---
 
-[Back to top](#mario-poneder) · [More about my work](https://decentra.vision/)
+[Back to top](#public-findings) · [More about my work](https://decentra.vision/)
