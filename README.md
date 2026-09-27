@@ -1,8 +1,6 @@
 <a id="public-findings"></a>
 
-# Mario Poneder
-
-**Public findings & security reviews · [Decentra Vision](https://decentra.vision/)**
+# Public findings & security reviews · [Decentra Vision](https://decentra.vision/)
 
 Audit engagements, competition findings, and judging across EVM, SVM, Starknet, Substrate, and NEAR, with work in Rust, Solidity, Cairo, and Yul.
 
@@ -338,7 +336,7 @@ Findings under NDA, requires [Code4rena backstage access](https://docs.code4rena
 
 ## [Cantina](https://cantina.xyz/)
 
-Finding details may require signing in to Cantina.
+> Finding details may require signing in to Cantina.
 
 ### Judging
 
