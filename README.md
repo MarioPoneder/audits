@@ -20,7 +20,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 
 | Project & scope | Engagement |
 | :--- | :--- |
-| **To be disclosed**<br>Prediction market, LMSR AMM, Liquidity provision, Position accounting, Settlement, Fee accounting | 2026-09 · 1.0 weeks<br>Zenith<br>Rust / SVM |
+| **FactMachine - LMSR Prediction Market**<br>Prediction market, LMSR AMM, Liquidity provision, Position accounting, Settlement, Fee accounting | 2026-09 · 1.0 weeks<br>Zenith<br>Rust / SVM |
 | **GMX - Builder Fee**<br>DEX, Perpetuals, Fee accounting, Order lifecycle, Transaction bundling | 2026-09 · 0.4 weeks<br>Zenith<br>Rust / SVM |
 | **[Interfold - Proof-backed Data Availability](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Interfold.pdf)**<br>Data availability (Avail / VectorX), EIP-712 attestations, Ciphertext references, Public-key chunking | 2026-09 · 0.6 weeks<br>Zenith<br>Solidity / EVM |
 | **[Solomon Labs - Reserve-Backed Stablecoin](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Solomon.pdf)**<br>Stablecoin, Token conversion, Settlement, Cross-chain, Token-2022, Fee & limit accounting | 2026-08 · 2.4 weeks<br>Zenith<br>Rust / SVM |
