@@ -20,6 +20,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 
 | Project & scope | Engagement |
 | :--- | :--- |
+| **Ondo Finance - GM Solana #2**<br>RWAs, Token-2022, Minting & redemption, Signatures, Compliance, Rate limiting | 2026-09 · 1.0 weeks<br>Spearbit<br>Rust / SVM |
 | **FactMachine - LMSR Prediction Market**<br>Prediction market, LMSR AMM, Liquidity provision, Position accounting, Settlement, Fee accounting | 2026-09 · 1.0 weeks<br>Zenith<br>Rust / SVM |
 | **GMX - Builder Fee**<br>DEX, Perpetuals, Fee accounting, Order lifecycle, Transaction bundling | 2026-09 · 0.4 weeks<br>Zenith<br>Rust / SVM |
 | **[Interfold - Proof-backed Data Availability](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20Interfold.pdf)**<br>Data availability (Avail / VectorX), EIP-712 attestations, Ciphertext references, Public-key chunking | 2026-09 · 0.6 weeks<br>Zenith<br>Solidity / EVM |
@@ -62,7 +63,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 | **[Meteora - DLMM](https://github.com/zenith-security/reports/blob/main/reports/Meteora%20DLMM%20-%20Zenith%20Audit%20Report.pdf)**<br>Concentrated liquidity market maker, Dynamic fees | 2025-07 · 4.7 weeks<br>Zenith<br>Rust / SVM |
 | **[Berachain - Reward Caps & Permit2](https://github.com/zenith-security/reports/blob/main/reports/Berachain%20Reward%20Caps%20-%20Zenith%20Audit%20Report.pdf)**<br>Vault, Reward rate limiting, Permit2 | 2025-06 · 0.6 weeks<br>Zenith<br>Solidity / EVM |
 | **[Legion Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Legion%20-%20Zenith%20Audit%20Report.pdf)**<br>Token generation (TGE), Vesting, Refunds | 2025-06 · 0.4 weeks<br>Zenith<br>Rust / SVM |
-| **Meteora - Dynamic Bonding Curve & DAMMv2 (PRs)**<br>Token 2022, Access control | 2025-06 · 0.2 weeks<br>Zenith<br>Rust / SVM |
+| **Meteora - Dynamic Bonding Curve & DAMMv2 (PRs)**<br>Token-2022, Access control | 2025-06 · 0.2 weeks<br>Zenith<br>Rust / SVM |
 | **[0x - CrossChainReceiver](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%200x%20-%20CrossChainReceiver%20-%20Final%20Report.pdf)**<br>Assembly, Signatures, Proxy, Multicall, Permit2, ERC-7739 | 2025-06 · 0.6 weeks<br>BailSec<br>Yul / EVM, Solidity / EVM |
 | **Structured Private Deposit Jupiter Helper**<br>Perpetuals, Liquidity provision, Wrapper | 2025-06 · 0.4 weeks<br>Oak Security<br>Rust / SVM |
 | **PolymerDAO - Solana Prover Contracts**<br>Cross-chain, Event proofs, Storage proofs | 2025-06 · 1.4 weeks<br>Spearbit<br>Solidity / EVM, Rust / SVM |
