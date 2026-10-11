@@ -118,6 +118,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 
 | Project & scope | Engagement |
 | :--- | :--- |
+| **Tailwind Zone - Clank Trade (Fee Hook)**<br>Uniswap v4 hooks, Fee accounting, ERC-6909 | 2026-10 · 0.4 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **Tailwind Zone - Clank Trade**<br>Bonding curve, Token launchpad, Uniswap v4, Liquidity provision, Tokenized stocks, Fee accounting | 2026-09 · 1.4 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **[Possum Finance](https://gist.github.com/MarioPoneder/6ffb8cfc301811bf09fe49db460b357d) ([ref](https://www.possum.finance/docs/resources/security-audits))**<br>Prediction markets, Vault, Staking | 2025-12 · 0.8 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **[Possum TopCut](https://gist.github.com/MarioPoneder/d2a6a1d6a495d22790795c0302c3dd55)**<br>Precision markets, Vault, Rewards | 2025-06 · 0.6 weeks<br>Decentra Vision<br>Solidity / EVM |
