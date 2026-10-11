@@ -4,7 +4,7 @@
 
 Audit engagements, competition findings, and judging across EVM, SVM, Starknet, Substrate, and NEAR, with work in Rust, Solidity, Cairo, and Yul.
 
-**87 engagements** · **10 judging assignments** · **7 podium finishes**
+**89 engagements** · **10 judging assignments** · **7 podium finishes**
 
 <a id="index"></a>
 
@@ -12,7 +12,7 @@ Audit engagements, competition findings, and judging across EVM, SVM, Starknet, 
 
 ## Team Engagements
 
-**76 engagements · 2024–2026**
+**77 engagements · 2024–2026**
 
 Project links lead to public reports. Each engagement lists its start month, duration, provider, and language / platform.
 
@@ -114,7 +114,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 
 ## Solo Engagements
 
-**11 engagements · 2024–2026**
+**12 engagements · 2024–2026**
 
 | Project & scope | Engagement |
 | :--- | :--- |
