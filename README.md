@@ -4,7 +4,7 @@
 
 Audit engagements, competition findings, and judging across EVM, SVM, Starknet, Substrate, and NEAR, with work in Rust, Solidity, Cairo, and Yul.
 
-**89 engagements** · **10 judging assignments** · **7 podium finishes**
+**90 engagements** · **10 judging assignments** · **7 podium finishes**
 
 <a id="index"></a>
 
@@ -114,10 +114,11 @@ Project links lead to public reports. Each engagement lists its start month, dur
 
 ## Solo Engagements
 
-**12 engagements · 2024–2026**
+**13 engagements · 2024–2026**
 
 | Project & scope | Engagement |
 | :--- | :--- |
+| **Tailwind Zone - Clank Trade (Sponsored Executor)**<br>EIP-7702, Gas sponsorship, EIP-712 signatures, ERC-1271, Permit2 | 2026-10 · 0.2 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **Tailwind Zone - Clank Trade (Fee Hook)**<br>Uniswap v4 hooks, Fee accounting, ERC-6909 | 2026-10 · 0.4 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **Tailwind Zone - Clank Trade**<br>Bonding curve, Token launchpad, Uniswap v4, Liquidity provision, Tokenized stocks, Fee accounting | 2026-09 · 1.4 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **[Possum Finance](https://gist.github.com/MarioPoneder/6ffb8cfc301811bf09fe49db460b357d) ([ref](https://www.possum.finance/docs/resources/security-audits))**<br>Prediction markets, Vault, Staking | 2025-12 · 0.8 weeks<br>Decentra Vision<br>Solidity / EVM |
