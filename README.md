@@ -20,7 +20,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 
 | Project & scope | Engagement |
 | :--- | :--- |
-| **Kintsugi Tech - Injective M2 Backend**<br>Prediction market, Results registry, EIP-712 signatures, On-chain scoring, Settlement, Merkle proofs | 2026-09 · 0.4 weeks<br>Zenith<br>Solidity / EVM |
+| **Kintsugi Tech - Injective M2 Backend**<br>Prediction market, Results registry, EIP-712 signatures, On-chain scoring, Settlement, Merkle proofs | 2026-11 · 0.4 weeks<br>Zenith<br>Solidity / EVM |
 | **Ondo Finance - GM Solana #2**<br>RWAs, Token-2022, Minting & redemption, Signatures, Compliance, Rate limiting | 2026-09 · 1.0 weeks<br>Spearbit<br>Rust / SVM |
 | **FactMachine - LMSR Prediction Market**<br>Prediction market, LMSR AMM, Liquidity provision, Position accounting, Settlement, Fee accounting | 2026-09 · 1.0 weeks<br>Zenith<br>Rust / SVM |
 | **[GMX - Builder Fee](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20GMX.pdf)**<br>DEX, Perpetuals, Fee accounting, Order lifecycle, Transaction bundling | 2026-09 · 0.4 weeks<br>Zenith<br>Rust / SVM |
@@ -119,7 +119,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 
 | Project & scope | Engagement |
 | :--- | :--- |
-| **Tailwind Zone - Clank Trade (LP autocompound)**<br>Uniswap v4, Concentrated liquidity, LP fee compounding, Liquidity locking | 2026-10 · 0.4 weeks<br>Decentra Vision<br>Solidity / EVM |
+| **Tailwind Zone - Clank Trade (LP autocompound)**<br>Uniswap v4, Concentrated liquidity, LP fee compounding, Liquidity locking | 2026-11 · 0.4 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **Tailwind Zone - Clank Trade (Launchpad Upgrade)**<br>Uniswap v4 hooks, Fee accounting, Liquidity migration, Escrow | 2026-10 · 0.2 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **Tailwind Zone - Clank Trade (Sponsored Executor)**<br>EIP-7702, Gas sponsorship, EIP-712 signatures, ERC-1271, Permit2 | 2026-10 · 0.2 weeks<br>Decentra Vision<br>Solidity / EVM |
 | **Tailwind Zone - Clank Trade (Fee Hook)**<br>Uniswap v4 hooks, Fee accounting, ERC-6909 | 2026-10 · 0.4 weeks<br>Decentra Vision<br>Solidity / EVM |
