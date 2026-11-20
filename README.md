@@ -4,7 +4,7 @@
 
 Audit engagements, competition findings, and judging across EVM, SVM, Starknet, Substrate, and NEAR, with work in Rust, Solidity, Cairo, and Yul.
 
-**93 engagements** · **10 judging assignments** · **7 podium finishes**
+**96 engagements** · **10 judging assignments** · **7 podium finishes**
 
 <a id="index"></a>
 
@@ -12,7 +12,7 @@ Audit engagements, competition findings, and judging across EVM, SVM, Starknet, 
 
 ## Team Engagements
 
-**78 engagements · 2024–2026**
+**81 engagements · 2024–2026**
 
 Project links lead to public reports. Each engagement lists its start month, duration, provider, and language / platform.
 
@@ -20,7 +20,10 @@ Project links lead to public reports. Each engagement lists its start month, dur
 
 | Project & scope | Engagement |
 | :--- | :--- |
-| **Kintsugi Tech - Injective M2 Backend**<br>Prediction market, Results registry, EIP-712 signatures, On-chain scoring, Settlement, Merkle proofs | 2026-11 · 0.4 weeks<br>Zenith<br>Solidity / EVM |
+| **Meteora - DLMM Pro (Crossed limit orders)**<br>Dynamic fees, Partial-fill swaps, Token-2022, Transfer fees, NFT delegation, Circuit breaker | 2026-11 · 0.6 weeks<br>Zenith<br>Rust / SVM |
+| **Ondo Finance - GM Solana #3**<br>RWAs, Minting & redemption, Multisig integration, Oracle, Yield accrual, Rate scheduling | 2026-11 · 1.2 weeks<br>Spearbit<br>Rust / SVM |
+| **GMX - GT Delegation & Buyback Claims**<br>DEX, Perpetuals, Fee accounting, Permissionless claims, Rent sponsorship | 2026-11 · 0.3 weeks<br>Zenith<br>Rust / SVM |
+| **[Kintsugi Tech - Injective M2 Backend](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Final%20Audit%20Report%20-%20Kintsugi%20Tech.pdf)**<br>Prediction market, Results registry, EIP-712 signatures, On-chain scoring, Settlement, Merkle proofs | 2026-11 · 0.4 weeks<br>Zenith<br>Solidity / EVM |
 | **Ondo Finance - GM Solana #2**<br>RWAs, Token-2022, Minting & redemption, Signatures, Compliance, Rate limiting | 2026-09 · 1.0 weeks<br>Spearbit<br>Rust / SVM |
 | **FactMachine - LMSR Prediction Market**<br>Prediction market, LMSR AMM, Liquidity provision, Position accounting, Settlement, Fee accounting | 2026-09 · 1.0 weeks<br>Zenith<br>Rust / SVM |
 | **[GMX - Builder Fee](https://github.com/zenith-security/reports/blob/main/reports/Zenith%20Audit%20Report%20-%20GMX.pdf)**<br>DEX, Perpetuals, Fee accounting, Order lifecycle, Transaction bundling | 2026-09 · 0.4 weeks<br>Zenith<br>Rust / SVM |
@@ -61,7 +64,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 | **[Vesu v2](https://github.com/zenith-security/reports/blob/main/reports/Vesu%20V2%20-%20Zenith%20Audit%20Report.pdf)**<br>Lending, Pools, Factory | 2025-08 · 1.0 weeks<br>Zenith<br>Cairo / Starknet |
 | **[Vesu v1 - Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Vesu%20V1%20-%20Zenith%20Audit%20Report.pdf)**<br>Lending, Positions, Vault, Extensions, Hooks | 2025-08 · 3.0 weeks<br>Zenith<br>Cairo / Starknet |
 | **Near One BTC Light Client**<br>Bitcoin, Litecoin, Dogecoin, Zcash, Client, Relay | 2025-08 · 0.6 weeks<br>AuditOne<br>Rust / NEAR |
-| **[Meteora - DLMM](https://github.com/zenith-security/reports/blob/main/reports/Meteora%20DLMM%20-%20Zenith%20Audit%20Report.pdf)**<br>Concentrated liquidity market maker, Dynamic fees | 2025-07 · 4.7 weeks<br>Zenith<br>Rust / SVM |
+| **[Meteora - DLMM](https://github.com/zenith-security/reports/blob/main/reports/Meteora%20DLMM%20-%20Zenith%20Audit%20Report.pdf)**<br>Dynamic liquidity market maker, Dynamic fees | 2025-07 · 4.7 weeks<br>Zenith<br>Rust / SVM |
 | **[Berachain - Reward Caps & Permit2](https://github.com/zenith-security/reports/blob/main/reports/Berachain%20Reward%20Caps%20-%20Zenith%20Audit%20Report.pdf)**<br>Vault, Reward rate limiting, Permit2 | 2025-06 · 0.6 weeks<br>Zenith<br>Solidity / EVM |
 | **[Legion Upgrade](https://github.com/zenith-security/reports/blob/main/reports/Legion%20-%20Zenith%20Audit%20Report.pdf)**<br>Token generation (TGE), Vesting, Refunds | 2025-06 · 0.4 weeks<br>Zenith<br>Rust / SVM |
 | **Meteora - Dynamic Bonding Curve & DAMMv2 (PRs)**<br>Token-2022, Access control | 2025-06 · 0.2 weeks<br>Zenith<br>Rust / SVM |
