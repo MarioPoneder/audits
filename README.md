@@ -72,7 +72,7 @@ Project links lead to public reports. Each engagement lists its start month, dur
 | **Structured Private Deposit Jupiter Helper**<br>Perpetuals, Liquidity provision, Wrapper | 2025-06 · 0.4 weeks<br>Oak Security<br>Rust / SVM |
 | **PolymerDAO - Solana Prover Contracts**<br>Cross-chain, Event proofs, Storage proofs | 2025-06 · 1.4 weeks<br>Spearbit<br>Solidity / EVM, Rust / SVM |
 | **[GMX Solana - Callback, Competition](https://github.com/zenith-security/reports/blob/main/reports/GMX%20Solana%20-%20Zenith%20Audit%20Report.pdf)**<br>DEX, Perpetuals, CPI callbacks | 2025-05 · 2.0 weeks<br>Zenith<br>Rust / SVM |
-| **[MetaMask Card Baanx Withdraw Program](https://github.com/oak-security/audit-reports/blob/main/MetaMask%20Card/2025-06-20%20Audit%20Report%20-%20MetaMask%20Card%20Baanx%20Withdraw%20Program%20v1.0.pdf)**<br>Treasury, Batch transfers, Ed25519 | 2025-05 · 0.8 weeks<br>Oak Security<br>Solidity / EVM |
+| **[MetaMask Card Baanx Withdraw Program](https://github.com/oak-security/audit-reports/blob/main/MetaMask%20Card/2025-06-20%20Audit%20Report%20-%20MetaMask%20Card%20Baanx%20Withdraw%20Program%20v1.0.pdf)**<br>Treasury, Batch transfers, Ed25519 | 2025-05 · 0.8 weeks<br>Oak Security<br>Rust / SVM |
 | **Meteora - Dynamic Bonding Curve (PR)**<br>Rate limiting, CPI validation | 2025-05 · 0.2 weeks<br>Zenith<br>Rust / SVM |
 | **Lombard Finance - Starknet LBTC**<br>Liquid BTC, Multi-signature, Cross-chain | 2025-05 · 1.4 weeks<br>Zenith<br>Cairo / Starknet |
 | **[Semantic Layer - SVF](https://cantina.xyz/portfolio/94eda137-c9c0-4fef-9fe0-cefbf02abda6)**<br>Uniswap v4 hooks, AI fund management, Staking | 2025-04 · 0.8 weeks<br>Spearbit<br>Solidity / EVM |
